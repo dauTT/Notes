@@ -17,4 +17,5 @@
 ## Installation Guide
 
 * [Docker](installation-guide/docker.md)
+* [pbcopy](installation-guide/pbcopy.md)
 
