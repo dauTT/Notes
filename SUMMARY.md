@@ -4,9 +4,13 @@
 
 ## Linux
 
-* [Untitled](linux/untitled.md)
+* [Useful commands](linux/untitled.md)
 
 ## Git
 
 * [branch](git/branch.md)
+
+## Random
+
+* [Untitled](random/untitled.md)
 
