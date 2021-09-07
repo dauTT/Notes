@@ -14,3 +14,7 @@
 
 * [Untitled](random/untitled.md)
 
+## Installation Guide
+
+* [Docker](installation-guide/docker.md)
+
