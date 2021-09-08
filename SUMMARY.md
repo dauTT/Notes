@@ -20,3 +20,7 @@
 * [Docker](installation-guide/docker.md)
 * [pbcopy](installation-guide/pbcopy.md)
 
+## Python
+
+* [Packages](python/packages.md)
+
