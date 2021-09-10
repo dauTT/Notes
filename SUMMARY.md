@@ -28,4 +28,5 @@
 ## PagerDuty
 
 * [Tutorial](pagerduty/tutorial.md)
+* [Python](pagerduty/python.md)
 
