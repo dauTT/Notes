@@ -23,6 +23,7 @@
 ## Python
 
 * [Packages](python/packages.md)
+* [Installation](python/installation.md)
 
 ## PagerDuty
 
