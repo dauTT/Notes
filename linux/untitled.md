@@ -33,3 +33,11 @@ https://linuxize.com/post/how-to-change-hostname-on-ubuntu-18-04/
 find . -name ".ag-chain-cosmos*"
 ```
 
+### Set Time Zone
+
+```text
+timedatectl status
+timedatectl list-timezones
+sudo timedatectl set-timezone Europe/Zurich
+```
+
