@@ -26,15 +26,6 @@ hostnamectl
 https://linuxize.com/post/how-to-change-hostname-on-ubuntu-18-04/
 ```
 
-### Create a user
-
-```text
-sudo useradd -m username
-# cd /home/username
-
-# https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
-```
-
 ### Find a name
 
 ```text

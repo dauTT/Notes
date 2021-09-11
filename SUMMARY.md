@@ -5,6 +5,7 @@
 ## Linux
 
 * [Useful commands](linux/untitled.md)
+* [User](linux/user.md)
 * [SSH Key](linux/ssh-key.md)
 
 ## Git
