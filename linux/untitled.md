@@ -6,5 +6,32 @@
 sudo ss -plunt
 ```
 
+### Change host name
 
+```text
+# Change host name:
+
+1) hostnamectl
+2) sudo hostnamectl set-hostname MyNewHostName
+3) #Open the /etc/hosts file and change the old hostname to the new one
+vi /etc/hosts 
+4) check if the following file is available cloud.cfg:
+ls -l /etc/cloud/cloud.cfg
+5) if not, nothign to do.
+6) if yes, edit file cloud.cfg, and set "preserve_hostname: true"
+vi /etc/cloud/cloud.cfg
+7) verify that the changes are done correctly:
+hostnamectl
+
+https://linuxize.com/post/how-to-change-hostname-on-ubuntu-18-04/
+```
+
+### Create a user
+
+```text
+sudo useradd -m username
+# cd /home/username
+
+# https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
+```
 
