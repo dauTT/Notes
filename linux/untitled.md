@@ -41,3 +41,10 @@ timedatectl list-timezones
 sudo timedatectl set-timezone Europe/Zurich
 ```
 
+### Show filesystem disk space
+
+```text
+df -h
+df .
+```
+
