@@ -10,6 +10,7 @@
 ## Git
 
 * [branch](git/branch.md)
+* [Remote](git/remote.md)
 
 ## Random
 
