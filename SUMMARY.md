@@ -34,6 +34,7 @@
 ## Telegram
 
 * [Bot](telegram/bot.md)
+* [Resources](telegram/resources.md)
 
 ## Golang
 
