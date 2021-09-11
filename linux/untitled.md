@@ -35,3 +35,10 @@ sudo useradd -m username
 # https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
 ```
 
+### Find a name
+
+```text
+# find anything which start with .ag-chain-cosmos
+find . -name ".ag-chain-cosmos*"
+```
+
