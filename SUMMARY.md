@@ -7,6 +7,8 @@
 * [Useful commands](linux/untitled.md)
 * [User](linux/user.md)
 * [SSH Key](linux/ssh-key.md)
+* [Systemctl](linux/systemctl.md)
+* [rsync](linux/rsync.md)
 
 ## Git
 
