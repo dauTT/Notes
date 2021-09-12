@@ -26,11 +26,20 @@
 
 1\) Create a new Group
 
-2\) Send one message
+2\) Add bot 
 
-3\) Add bot
+3\) Send one message to the bot
+
+```text
+#example 
+Hello @Orai_ChandraBot
+```
 
 4\) execute this call in the browser: **https://api.telegram.org/bot**_**XXX:YYY**_**/getUpdates** \(replace the XXX:YYY with the **BOT API token** you just got from Telegram\)
+
+```text
+https://api.telegram.org/bot1949258182:AAEVqzoh9GmiUFhju8Q0gnYzWeJGPenzSA8/getUpdates
+```
 
 5\) Get the Chat ID
 
