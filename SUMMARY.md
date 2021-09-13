@@ -44,3 +44,7 @@
 
 * [Resources](golang/resources.md)
 
+## Intel SGX
+
+* [Resources](intel-sgx/resources.md)
+
