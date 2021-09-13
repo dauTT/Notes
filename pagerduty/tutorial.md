@@ -22,5 +22,7 @@
 
 {% embed url="https://chandrodaya.eu.pagerduty.com/sign\_in" %}
 
+{% embed url="https://app.eu.pagerduty.com/" %}
+
 
 
