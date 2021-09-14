@@ -49,3 +49,7 @@
 
 * [Resources](intel-sgx/resources.md)
 
+## Browser
+
+* [Brave](browser/brave.md)
+
