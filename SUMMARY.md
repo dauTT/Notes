@@ -10,6 +10,7 @@
 * [Systemctl](linux/systemctl.md)
 * [journalctl](linux/journalctl.md)
 * [rsync](linux/rsync.md)
+* [Securities/packages update](linux/securities-packages-update.md)
 
 ## Git
 
