@@ -82,3 +82,14 @@ else
 fi
 ```
 
+### Example using the Script
+
+```text
+# source folder = ./backupthis
+# spacename = chandrodaya
+# destination folder = testBackup
+
+sh BackupScript.sh ./backupthis chandrodaya  testBackup
+
+```
+
