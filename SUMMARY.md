@@ -53,3 +53,7 @@
 
 * [Brave](browser/brave.md)
 
+## S3cmd
+
+* [Scripts](s3cmd/scripts.md)
+
