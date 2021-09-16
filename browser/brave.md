@@ -1,6 +1,8 @@
 # Brave
 
-downgrade version
+### downgrade version
+
+{% embed url="https://community.brave.com/t/how-to-revert-to-earlier-version-of-brave-for-linux/99490/8" %}
 
 ```text
 # https://community.brave.com/t/how-to-revert-to-earlier-version-of-brave-for-linux/99490/8
