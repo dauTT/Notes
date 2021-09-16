@@ -57,3 +57,7 @@
 
 * [Scripts](s3cmd/scripts.md)
 
+## big-dipper
+
+* [Setup](big-dipper/setup.md)
+
