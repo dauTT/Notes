@@ -48,3 +48,9 @@ df -h
 df .
 ```
 
+### Find Kernel version
+
+```text
+uname -r 
+```
+
