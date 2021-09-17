@@ -30,6 +30,7 @@
 
 * [Packages](python/packages.md)
 * [Installation](python/installation.md)
+* [Resources](python/resources.md)
 
 ## PagerDuty
 
