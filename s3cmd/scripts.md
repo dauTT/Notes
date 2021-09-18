@@ -106,3 +106,9 @@ sh BackupScript.sh ./backupthis chandrodaya  testBackup
 s3cmd get s3://chandrodaya/testBackup-210916-00_20_18.tar.gz testBackup-210916-00_20_18.tar.gz
 ```
 
+### Usage
+
+{% embed url="https://s3tools.org/usage" %}
+
+
+
