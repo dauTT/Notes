@@ -54,3 +54,10 @@ df .
 uname -r 
 ```
 
+### Check folder size
+
+```text
+du -sh folderName
+du -chd 1 | sort -h
+```
+
