@@ -26,6 +26,10 @@ Access Key: XXXXXXXXX
   HTTP Proxy server name: 
   HTTP Proxy server port: 0
   
+  
+  # a config file will be save under
+  ~/.s3cfg
+  
 ```
 
 ### DigitalOcean script:
