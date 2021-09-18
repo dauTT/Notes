@@ -97,3 +97,12 @@ sh BackupScript.sh ./backupthis chandrodaya  testBackup
 
 ```
 
+### Download file
+
+```text
+# file = testBackup-210916-00_20_18.tar.gz
+# space = chandrodaya
+# destination = testBackup-210916-00_20_18.tar.gz
+s3cmd get s3://chandrodaya/testBackup-210916-00_20_18.tar.gz testBackup-210916-00_20_18.tar.gz
+```
+
