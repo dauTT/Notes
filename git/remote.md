@@ -13,3 +13,12 @@ git remote add dauTT git@github.com:dauTT/indep_node_alarm.git
 git remote -v
 ```
 
+### Remove remote
+
+```text
+git remote rm remoteName
+
+# example
+git remote rm dauTT
+```
+

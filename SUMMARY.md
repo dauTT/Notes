@@ -16,6 +16,7 @@
 
 * [branch](git/branch.md)
 * [Remote](git/remote.md)
+* [Tag](git/tag.md)
 
 ## Random
 
