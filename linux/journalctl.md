@@ -4,6 +4,12 @@
 
 {% embed url="https://www.mvorganizing.org/what-is-journalctl-used-for/" %}
 
+### Retain last two day logs:
+
+```text
+journalctl --vacuum-time=2d
+```
+
 ### FAQ
 
 #### journal does not print all the logs \(python\)
