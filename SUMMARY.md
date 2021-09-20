@@ -19,6 +19,7 @@
 * [branch](git/branch.md)
 * [Remote](git/remote.md)
 * [Tag](git/tag.md)
+* [eclipse](git/eclipse.md)
 
 ## Random
 
