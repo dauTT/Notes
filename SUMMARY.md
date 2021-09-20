@@ -12,6 +12,7 @@
 * [rsync](linux/rsync.md)
 * [Securities/packages update](linux/securities-packages-update.md)
 * [Environment variable](linux/environment-variable.md)
+* [Shell script](linux/shell-script.md)
 
 ## Git
 
