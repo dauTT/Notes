@@ -89,11 +89,12 @@ fi
 ### Example using the Script
 
 ```text
-# source folder = ./backupthis
+# source folder = /root/test/backuthis chandrodaya
+# make sure the soruce folder is given with full path!
 # spacename = chandrodaya
 # destination folder = testBackup
 
-sh BackupScript.sh ./backupthis chandrodaya  testBackup
+sh BackupScript.sh /root/test/backuthis chandrodaya chandrodaya  testBackup
 
 ```
 
