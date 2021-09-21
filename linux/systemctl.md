@@ -21,6 +21,12 @@ systemctl daemon-reload
 systemctl reset-failed
 ```
 
+### systemd options
+
+{% embed url="https://www.freedesktop.org/software/systemd/man/systemd.service.html" %}
+
+
+
 ### FAQ
 
 #### Issue: No journal files were found
