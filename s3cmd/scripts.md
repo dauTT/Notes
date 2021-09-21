@@ -19,7 +19,7 @@ Access Key: XXXXXXXXX
   Secret Key: YYYYYYYYYYYYYYYYYYYYYY
   Default Region: sfo3
   S3 Endpoint: sfo3.digitaloceanspaces.com
-  DNS-style bucket+hostname:port template for accessing a bucket: spacename.sfo3.digitaloceanspaces.com
+  DNS-style bucket+hostname:port template for accessing a bucket: chandrodaya.sfo3.digitaloceanspaces.com
   Encryption password: 108108108
   Path to GPG program: /usr/bin/gpg
   Use HTTPS protocol: True
