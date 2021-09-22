@@ -28,6 +28,7 @@
 ## Installation Guide
 
 * [Docker](installation-guide/docker.md)
+* [Commands](installation-guide/commands.md)
 * [pbcopy](installation-guide/pbcopy.md)
 
 ## Python
