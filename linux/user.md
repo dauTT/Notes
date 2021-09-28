@@ -36,5 +36,32 @@ usermod -aG sudo newuser
 sudo usermod -aG sudo newuser
 ```
 
+### Useful cmds
 
+```text
+# list all groups
+compgen -g
+
+# list all user
+compgen -u
+
+# create group 
+sudo addgroup <groupname>
+
+# create a user
+sudo adduser <username> <groupname>
+
+
+#Command to show users and their permissions
+#For a list of users type:
+cat /etc/passwd
+
+# and for a list of groups with the users that belong to each, type:
+
+cat /etc/group
+#For access rights, you can use:
+
+sudo find -user USERNAME /LOCATION
+
+```
 
