@@ -62,6 +62,7 @@
 ## S3cmd
 
 * [Scripts](s3cmd/scripts.md)
+* [NAS](s3cmd/nas.md)
 
 ## Cron job
 
