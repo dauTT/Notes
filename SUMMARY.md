@@ -13,6 +13,7 @@
 * [Securities/packages update](linux/securities-packages-update.md)
 * [Environment variable](linux/environment-variable.md)
 * [Shell script](linux/shell-script.md)
+* [ports](linux/ports.md)
 
 ## Git
 
