@@ -4,7 +4,7 @@
 
 {% embed url="https://community.brave.com/t/how-to-revert-to-earlier-version-of-brave-for-linux/99490/8" %}
 
-```text
+```
 # https://community.brave.com/t/how-to-revert-to-earlier-version-of-brave-for-linux/99490/8
 # If you have synaptic installed on your system, here is what should work.
 # Launch synaptic (you will probably be prompted for your password)
@@ -25,3 +25,16 @@
 
 ```
 
+### Run a specific version of brave
+
+```
+# https://www.addictivetips.com/ubuntu-linux-tips/install-brave-browser-on-linux/
+# Go to the release  page: https://github.com/brave/brave-browser/releases
+# chose a version 
+
+wget https://github.com/brave/brave-browser/releases/download/v1.27.111/brave-browser-1.27.111-linux-amd64.zip && unzip brave-browser-1.27.111-linux-amd64.zip
+cd ~/brave-browser-1.27.111-linux-amd64
+
+# run brave locally
+./brave'
+```
