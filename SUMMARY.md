@@ -1,27 +1,23 @@
 # Table of contents
 
 * [Notes](README.md)
-
-## Linux
-
-* [Useful commands](linux/untitled.md)
-* [User](linux/user.md)
-* [SSH Key](linux/ssh-key.md)
-* [Systemctl](linux/systemctl.md)
-* [journalctl](linux/journalctl.md)
-* [rsync](linux/rsync.md)
-* [Securities/packages update](linux/securities-packages-update.md)
-* [Environment variable](linux/environment-variable.md)
-* [Shell script](linux/shell-script.md)
-* [ports](linux/ports.md)
-
-## Git
-
-* [branch](git/branch.md)
-* [Remote](git/remote.md)
-* [Tag](git/tag.md)
-* [Commit](git/commit.md)
-* [eclipse](git/eclipse.md)
+* [Linux](linux/README.md)
+  * [ports](linux/ports.md)
+  * [Shell script](linux/shell-script.md)
+  * [Environment variable](linux/environment-variable.md)
+  * [Securities/packages update](linux/securities-packages-update.md)
+  * [rsync](linux/rsync.md)
+  * [journalctl](linux/journalctl.md)
+  * [Systemctl](linux/systemctl.md)
+  * [SSH Key](linux/ssh-key.md)
+  * [User](linux/user.md)
+  * [Useful commands](linux/untitled.md)
+* [Git](git/README.md)
+  * [eclipse](git/eclipse.md)
+  * [Commit](git/commit.md)
+  * [Tag](git/tag.md)
+  * [Remote](git/remote.md)
+  * [branch](git/branch.md)
 
 ## Random
 
