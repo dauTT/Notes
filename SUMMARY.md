@@ -20,6 +20,7 @@
 * [branch](git/branch.md)
 * [Remote](git/remote.md)
 * [Tag](git/tag.md)
+* [Commit](git/commit.md)
 * [eclipse](git/eclipse.md)
 
 ## Random
@@ -73,7 +74,6 @@
 
 * [Setup](big-dipper/setup.md)
 
----
+***
 
 * [webiste-note](webiste-note.md)
-
