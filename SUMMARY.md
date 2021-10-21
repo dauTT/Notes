@@ -19,11 +19,11 @@
   * [Remote](git/remote.md)
   * [branch](git/branch.md)
   * [Permission](git/permission.md)
-* [coingecko](coingecko.md)
 
 ## Random
 
 * [Untitled](random/untitled.md)
+* [coingecko](random/coingecko.md)
 
 ## Installation Guide
 
