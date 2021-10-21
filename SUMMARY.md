@@ -18,6 +18,7 @@
   * [Tag](git/tag.md)
   * [Remote](git/remote.md)
   * [branch](git/branch.md)
+  * [Permission](git/permission.md)
 
 ## Random
 
