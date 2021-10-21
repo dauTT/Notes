@@ -19,6 +19,7 @@
   * [Remote](git/remote.md)
   * [branch](git/branch.md)
   * [Permission](git/permission.md)
+* [coingecko](coingecko.md)
 
 ## Random
 
