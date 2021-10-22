@@ -18,13 +18,13 @@
   * [Remote](git/remote.md)
   * [branch](git/branch.md)
   * [Permission](git/permission.md)
-* [Programming Languages](programming-languages/README.md)
-  * [Go](programming-languages/go/README.md)
-    * [Json](programming-languages/go/json.md)
-  * [Python](programming-languages/python/README.md)
-    * [Packages](python/packages.md)
-    * [Installation](python/installation.md)
-    * [Resources](python/resources.md)
+* [Languages](languages/README.md)
+  * [Go](languages/go/README.md)
+    * [Json](languages/go/json.md)
+  * [Python](languages/python/README.md)
+    * [Packages](languages/python/packages.md)
+    * [Installation](languages/python/installation.md)
+    * [Resources](languages/python/resources.md)
 
 ## Random
 
