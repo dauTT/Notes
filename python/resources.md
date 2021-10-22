@@ -6,7 +6,7 @@
 
 
 
-```text
+```
 sudo systemctl stop indep_node_alarm 
 sudo systemctl stop junod 
 
@@ -22,4 +22,3 @@ tar -xzvf .juno-210916-00_20_18.tar.gz '
 
 s3cmd get s3://chandrodaya/testBackup-210916-00_20_18.tar.gz testBackup-210916-00_20_18.tar.gz
 ```
-

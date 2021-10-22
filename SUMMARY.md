@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Notes](README.md)
-* [Linux](linux/README.md)
+* [Linux](README.md)
   * [ports](linux/ports.md)
   * [Shell script](linux/shell-script.md)
   * [Environment variable](linux/environment-variable.md)
@@ -23,9 +22,9 @@
   * [Go](programming-languages/go/README.md)
     * [Json](programming-languages/go/json.md)
   * [Python](programming-languages/python/README.md)
-    * [Packages](programming-languages/python/packages.md)
-    * [Installation](programming-languages/python/installation.md)
-    * [Resources](programming-languages/python/resources.md)
+    * [Packages](python/packages.md)
+    * [Installation](python/installation.md)
+    * [Resources](python/resources.md)
 
 ## Random
 
