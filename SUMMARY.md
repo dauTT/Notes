@@ -19,6 +19,13 @@
   * [Remote](git/remote.md)
   * [branch](git/branch.md)
   * [Permission](git/permission.md)
+* [Programming Languages](programming-languages/README.md)
+  * [Go](programming-languages/go/README.md)
+    * [Json](programming-languages/go/json.md)
+  * [Python](programming-languages/python/README.md)
+    * [Packages](programming-languages/python/packages.md)
+    * [Installation](programming-languages/python/installation.md)
+    * [Resources](programming-languages/python/resources.md)
 
 ## Random
 
@@ -30,12 +37,6 @@
 * [Docker](installation-guide/docker.md)
 * [Commands](installation-guide/commands.md)
 * [pbcopy](installation-guide/pbcopy.md)
-
-## Python
-
-* [Packages](python/packages.md)
-* [Installation](python/installation.md)
-* [Resources](python/resources.md)
 
 ## PagerDuty
 
