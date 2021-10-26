@@ -25,6 +25,7 @@
     * [mod](languages/go/mod.md)
     * [Test](languages/go/test.md)
     * [gRPC](languages/go/grpc.md)
+    * [Debugging](languages/go/debugging.md)
   * [Python](languages/python/README.md)
     * [Packages](languages/python/packages.md)
     * [Installation](languages/python/installation.md)
