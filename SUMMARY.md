@@ -30,6 +30,7 @@
     * [Packages](languages/python/packages.md)
     * [Installation](languages/python/installation.md)
     * [Resources](languages/python/resources.md)
+* [libp2p](libp2p.md)
 
 ## Random
 
