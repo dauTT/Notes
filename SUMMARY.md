@@ -18,6 +18,7 @@
   * [Remote](git/remote.md)
   * [branch](git/branch.md)
   * [Permission](git/permission.md)
+  * [Merge](git/merge.md)
 * [Languages](languages/README.md)
   * [Go](languages/go/README.md)
     * [Json](languages/go/json.md)
