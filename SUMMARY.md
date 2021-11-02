@@ -31,6 +31,7 @@
     * [Packages](languages/python/packages.md)
     * [Installation](languages/python/installation.md)
     * [Resources](languages/python/resources.md)
+  * [Rust](languages/rust.md)
 * [libp2p](libp2p.md)
 * [Makefile](makefile.md)
 
