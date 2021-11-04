@@ -6,4 +6,4 @@
 
 Tutorial
 
-{% embed url="https://t.co/vJ5a8lkMGv" %}
+[https:playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
