@@ -4,6 +4,17 @@
 
 ```
 app install rsync
+
+
+#create backup of source_dir here: target_dir/source_dir
+rsync -av source_dir target_dir
+
+#create backup of the content of source_dir here: target_dir/
+rsync -av source_dir/ target_dir
+
+
+
+
 ```
 
 ### Tutorial
