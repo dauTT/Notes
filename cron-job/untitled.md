@@ -1,5 +1,7 @@
 # Resources
 
+[https://crontab.guru/#\*\_\*\_\*\_\*\_\*](https://crontab.guru/#\*\_\*\_\*\_\*\_\*)
+
 crontab -e
 
 ```
