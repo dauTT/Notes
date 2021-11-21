@@ -2,9 +2,12 @@
 
 ### Check for open ports
 
-```text
+```
 sudo apt install nmap
 sudo nmap 138.68.107.126
+
+###########################
+sudo lsof -i -P -n
 ```
 
 ### port forwarding
@@ -16,6 +19,4 @@ sudo nmap 138.68.107.126
 ### Check Port
 
 {% embed url="https://www.portchecktool.com/" %}
-
-
 
