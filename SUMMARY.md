@@ -40,6 +40,7 @@
 
 * [Untitled](random/untitled.md)
 * [coingecko](random/coingecko.md)
+* [CORS](random/cors.md)
 
 ## Installation Guide
 
