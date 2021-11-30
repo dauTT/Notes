@@ -33,6 +33,7 @@
     * [Installation](languages/python/installation.md)
     * [Resources](languages/python/resources.md)
   * [Rust](languages/rust.md)
+  * [JS](languages/js.md)
 * [libp2p](libp2p.md)
 * [Makefile](makefile.md)
 
