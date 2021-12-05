@@ -17,6 +17,10 @@
 
 
 
+### Pattern
+
+* [design-patterns](https://www.dofactory.com/javascript/design-patterns/singleton)
+
 
 
 
