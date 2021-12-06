@@ -29,6 +29,7 @@ crontab -e
 # 
 # m h  dom mon dow   command
 
+# 0 1 * * * /usr/bin/python3 /root/py/backup/main.py run_backup_delete_local_copy
 0 7 * * * /usr/bin/python3 /root/py/backup/main.py  run_backup_and_restart_node_CUR
 
 ```
