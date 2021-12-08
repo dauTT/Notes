@@ -15,3 +15,15 @@ and save the file.
 sudo update-grub
 sudo reboot
 ```
+
+```
+# https://askubuntu.com/questions/1199236/ubuntu-19-10-freeze-the-sidebar-and-top-bar-until-restart
+# as a temporary remedy instead killall gnome panel try Alt+F2 dialogue box will open then type r and hit enter key
+
+1) Alt+F2
+2) r
+3) Enter
+
+
+```
+
