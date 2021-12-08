@@ -8,6 +8,8 @@ app install rsync
 
 #create backup of source_dir here: target_dir/source_dir
 rsync -av source_dir target_dir
+# example:
+rsync -av  /mnt/juno2_prod_volume_sfo3_02/workspace   /mnt/juno2_prod_volume_sfo3_03
 
 #create backup of the content of source_dir here: target_dir/
 rsync -av source_dir/ target_dir
