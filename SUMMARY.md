@@ -11,6 +11,7 @@
   * [SSH Key](linux/ssh-key.md)
   * [User](linux/user.md)
   * [Useful commands](linux/untitled.md)
+  * [Unfreeze UI](linux/unfreeze-ui.md)
 * [Git](git/README.md)
   * [eclipse](git/eclipse.md)
   * [Commit](git/commit.md)
