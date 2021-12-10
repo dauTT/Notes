@@ -80,6 +80,8 @@
 ## Cron job
 
 * [Resources](cron-job/untitled.md)
+* [Applications](cron-job/applications/README.md)
+  * [Ngnx](cron-job/applications/ngnx.md)
 
 ## big-dipper
 
