@@ -2,14 +2,14 @@
 
 ### Intall s3cmd
 
-```text
+```
 sudo apt update
 sudo apt install s3cmd
 ```
 
 ### Config
 
-```text
+```
 s3cmd --configure
 
 
@@ -38,7 +38,7 @@ Access Key: XXXXXXXXX
 
 
 
-```text
+```
 #!/bin/bash
 DATETIME=`date +%y%m%d-%H_%M_%S`
 SRC=$1
@@ -88,7 +88,7 @@ fi
 
 ### Example using the Script
 
-```text
+```
 # source folder = /root/test/backuthis chandrodaya
 # make sure the soruce folder is given with full path!
 # spacename = chandrodaya
@@ -100,7 +100,7 @@ sh BackupScript.sh /root/test/backuthis chandrodaya chandrodaya  testBackup
 
 ### Download file
 
-```text
+```
 # file = testBackup-210916-00_20_18.tar.gz
 # space = chandrodaya
 # destination = testBackup-210916-00_20_18.tar.gz
@@ -110,6 +110,4 @@ s3cmd get s3://chandrodaya/testBackup-210916-00_20_18.tar.gz testBackup-210916-0
 ### Usage
 
 {% embed url="https://s3tools.org/usage" %}
-
-
 

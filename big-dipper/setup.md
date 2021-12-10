@@ -1,4 +1,4 @@
-# Setup
+# Big dipper
 
 ### Github repository
 
@@ -8,8 +8,7 @@
 
 ### Installation
 
-```text
+```
 # https://geedew.com/What-does-unsafe-perm-in-npm-actually-do/
 sudo npm install -g meteor --unsafe-perm=true
 ```
-

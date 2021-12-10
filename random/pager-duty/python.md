@@ -2,15 +2,15 @@
 
 ### Integration Key
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 ### API Key
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](<../../.gitbook/assets/image (3).png>)
 
 ### Python Script to create incidence
 
-```text
+```
 import json
 import time
 import requests # sudo pip3 install requests
@@ -58,6 +58,4 @@ pd_incident = session.rpost("incidents", json=payload)
 ### library
 
 {% embed url="https://github.com/PagerDuty/pdpyras" %}
-
-
 

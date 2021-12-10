@@ -6,38 +6,38 @@
 
 ### Get BOT API Token
 
-#### 1\) Search @BotFather 
+#### 1) Search @BotFather&#x20;
 
-#### 2\) Start conversation
+#### 2) Start conversation
 
-#### 3\) Enter \*/newbot\*
+#### 3) Enter \*/newbot\*
 
-#### 4\) Give a name
+#### 4) Give a name
 
-#### 5\) give username
+#### 5) give username
 
-#### 6 \) Get BOT API Token
+#### 6 ) Get BOT API Token
 
 
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 ### Get Chat ID
 
 1\) Create a new Group
 
-2\) Add bot 
+2\) Add bot&#x20;
 
 3\) Send one message to the bot
 
-```text
+```
 #example 
 Hello @Orai_ChandraBot
 ```
 
-4\) execute this call in the browser: **https://api.telegram.org/bot**_**XXX:YYY**_**/getUpdates** \(replace the XXX:YYY with the **BOT API token** you just got from Telegram\)
+4\) execute this call in the browser: **https://api.telegram.org/bot**_**XXX:YYY**_**/getUpdates** (replace the XXX:YYY with the **BOT API token** you just got from Telegram)
 
-```text
+```
 https://api.telegram.org/bot1949258182:AAEVqzoh9GmiUFhju8Q0gnYzWeJGPenzSA8/getUpdates
 ```
 
@@ -45,7 +45,7 @@ https://api.telegram.org/bot1949258182:AAEVqzoh9GmiUFhju8Q0gnYzWeJGPenzSA8/getUp
 
 ### Bot python script
 
-```text
+```
 import json
 import time
 import requests # sudo pip3 install requests
@@ -62,8 +62,6 @@ requestURL = "https://api.telegram.org/bot" + str(telegram_token) + "/sendMessag
 requestURL = requestURL + str(alarm_content)
 response = requests.get(requestURL, timeout=1)
 ```
-
-
 
 
 
