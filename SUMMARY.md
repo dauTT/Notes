@@ -38,7 +38,7 @@
   * [Rust](languages/rust.md)
   * [JS](languages/js.md)
 * [Applications](cron-job/applications/README.md)
-  * [Ngnx](cron-job/applications/ngnx.md)
+  * [Nginx](applications/nginx.md)
   * [S3cmd](cron-job/applications/s3cmd/README.md)
     * [Scripts](cron-job/applications/s3cmd/scripts.md)
     * [NAS](cron-job/applications/s3cmd/nas.md)

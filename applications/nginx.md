@@ -1,4 +1,4 @@
-# Ngnx
+# Nginx
 
 [how-to-install-nginx-on-ubuntu-20-04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04#step-5-%E2%80%93-setting-up-server-blocks-\(recommended\))
 
@@ -7,6 +7,20 @@
 [Setup Https on Digital Ocean Ubuntu Server (Nginx and Certbot)](https://www.youtube.com/watch?v=r-ljiO\_7MME)
 
 [https://nymtech.net/docs/0.11.0/run-nym-nodes/validators](https://nymtech.net/docs/0.11.0/run-nym-nodes/validators)
+
+
+
+#### 1) Nginx server
+
+![](<../.gitbook/assets/image (9).png>)
+
+#### 2) Subdomain creation
+
+![](<../.gitbook/assets/image (11).png>)
+
+#### 3) Configure Nginx
+
+
 
 ```
 sudo apt update
