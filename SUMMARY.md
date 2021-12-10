@@ -12,6 +12,7 @@
   * [User](linux/user.md)
   * [Useful commands](linux/untitled.md)
   * [Unfreeze UI](linux/unfreeze-ui.md)
+  * [Cron job](linux/untitled-1.md)
 * [Git](git/README.md)
   * [eclipse](git/eclipse.md)
   * [Commit](git/commit.md)
@@ -36,20 +37,23 @@
     * [Resources](languages/python/resources.md)
   * [Rust](languages/rust.md)
   * [JS](languages/js.md)
-* [Makefile](makefile.md)
-
-## Random
-
-* [ip address](random/untitled.md)
-* [coingecko](random/coingecko.md)
-* [CORS](random/cors.md)
-* [Resources](random/resources.md)
-
-## Installation Guide
-
-* [Docker](installation-guide/docker.md)
-* [Commands](installation-guide/commands.md)
-* [pbcopy](installation-guide/pbcopy.md)
+* [Applications](applications/README.md)
+  * [Ngnx](applications/ngnx.md)
+  * [S3cmd](applications/s3cmd/README.md)
+    * [Scripts](applications/s3cmd/scripts.md)
+    * [NAS](applications/s3cmd/nas.md)
+  * [libp2p](applications/libp2p.md)
+  * [Brave](applications/brave.md)
+  * [Docker](applications/docker/README.md)
+    * [Commands](applications/docker/commands.md)
+  * [pbcopy](applications/pbcopy.md)
+  * [Makefile](applications/makefile.md)
+  * [Big dipper](applications/setup.md)
+* [Random](random/README.md)
+  * [SGX](random/resources.md)
+  * [CORS](random/cors.md)
+  * [coingecko](random/coingecko.md)
+  * [ip address](random/untitled.md)
 
 ## PagerDuty
 
@@ -60,24 +64,3 @@
 
 * [Bot](telegram/bot.md)
 * [Resources](telegram/resources.md)
-
-## Intel SGX
-
-## Cron job
-
-* [Resources](cron-job/untitled.md)
-* [Applications](cron-job/applications/README.md)
-  * [Ngnx](cron-job/applications/ngnx.md)
-  * [S3cmd](cron-job/applications/s3cmd/README.md)
-    * [Scripts](cron-job/applications/s3cmd/scripts.md)
-    * [NAS](cron-job/applications/s3cmd/nas.md)
-  * [libp2p](cron-job/applications/libp2p.md)
-  * [Brave](cron-job/applications/brave.md)
-
-## big-dipper
-
-* [Setup](big-dipper/setup.md)
-
-***
-
-* [webiste-note](webiste-note.md)
