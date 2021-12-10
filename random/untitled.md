@@ -2,13 +2,15 @@
 
 ### Find my ip address
 
+```
+curl -4 icanhazip.com
+```
+
 {% embed url="https://www.whatismyip.com/" %}
 
 ### Install AppImage
 
-```text
+```
 sudo chmod +x application
 ```
-
-
 
