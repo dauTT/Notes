@@ -36,14 +36,14 @@
     * [Resources](languages/python/resources.md)
   * [Rust](languages/rust.md)
   * [JS](languages/js.md)
-* [libp2p](libp2p.md)
 * [Makefile](makefile.md)
 
 ## Random
 
-* [Untitled](random/untitled.md)
+* [ip address](random/untitled.md)
 * [coingecko](random/coingecko.md)
 * [CORS](random/cors.md)
+* [Resources](random/resources.md)
 
 ## Installation Guide
 
@@ -61,28 +61,18 @@
 * [Bot](telegram/bot.md)
 * [Resources](telegram/resources.md)
 
-## Golang
-
-* [Resources](golang/resources.md)
-
 ## Intel SGX
-
-* [Resources](intel-sgx/resources.md)
-
-## Browser
-
-* [Brave](browser/brave.md)
-
-## S3cmd
-
-* [Scripts](s3cmd/scripts.md)
-* [NAS](s3cmd/nas.md)
 
 ## Cron job
 
 * [Resources](cron-job/untitled.md)
 * [Applications](cron-job/applications/README.md)
   * [Ngnx](cron-job/applications/ngnx.md)
+  * [S3cmd](cron-job/applications/s3cmd/README.md)
+    * [Scripts](cron-job/applications/s3cmd/scripts.md)
+    * [NAS](cron-job/applications/s3cmd/nas.md)
+  * [libp2p](cron-job/applications/libp2p.md)
+  * [Brave](cron-job/applications/brave.md)
 
 ## big-dipper
 
