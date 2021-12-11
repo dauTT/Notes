@@ -129,3 +129,6 @@ certbot --nginx -d api.orai.chandrodaya.net -m support@chandrodaya.net --agree-t
 
 
 ```
+
+### Query logs
+
