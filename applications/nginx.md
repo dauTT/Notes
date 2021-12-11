@@ -132,3 +132,9 @@ certbot --nginx -d api.orai.chandrodaya.net -m support@chandrodaya.net --agree-t
 
 ### Query logs
 
+```
+tail -20  /var/log/nginx/error.log
+tail -20  /var/log/nginx/access.log
+systemctl restart nginx
+```
+
