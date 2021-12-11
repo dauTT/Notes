@@ -91,23 +91,38 @@ server {
 certbot --nginx -d api.orai.chandrodaya.net -m support@chandrodaya.net --agree-tos --noninteractive --redirect
 
 # Create Config file
-nano /etc/nginx/conf.d/api-orai.conf
+nano /etc/nginx/conf.d/api.juno.conf
 
 server {
-  server_name  rpc.orai.chandrodaya.net  ;
-  # resolver 8.8.8.8 valid=10s;
+  listen 82;
+  listen [::]:82;
 
+  server_name  api.juno.chandrodaya.net  ;
+  
   location / {
-    
-    #set $endpoint rpc.orai.io ; 
-    #proxy_pass http://134.209.25.201:26657;
-    #proxy_pass  https://$endpoint ;
-    proxy_pass https://rpc.orai.io ; 
-    #proxy_redirect  https://$endpoint/ $host;
-     proxy_ssl_server_name on;
-     proxy_set_header Accept-Encoding "";
+   
+    proxy_pass https://api-juno.nodes.guru ; 
+    proxy_ssl_server_name on;
 
-
+    if ($request_method = 'OPTIONS') {
+        add_header 'Access-Control-Allow-Origin' '*';
+        #
+        # Om nom nom cookies
+        #
+        add_header 'Access-Control-Allow-Credentials' 'true';
+        add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS';
+        #
+        # Custom headers and headers various browsers *should* be OK with but aren't
+        #
+        add_header 'Access-Control-Allow-Headers' 'DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type';
+        #
+        # Tell client that this pre-flight info is valid for 20 days
+        #
+        add_header 'Access-Control-Max-Age' 1728000;
+        add_header 'Content-Type' 'text/plain charset=UTF-8';
+        add_header 'Content-Length' 0;
+        return 204;
+     }
      if ($request_method = 'POST') {
         add_header 'Access-Control-Allow-Origin' '*';
         add_header 'Access-Control-Allow-Credentials' 'true';
@@ -119,10 +134,19 @@ server {
         add_header 'Access-Control-Allow-Credentials' 'true';
         add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS';
         add_header 'Access-Control-Allow-Headers' 'DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type';
-    }
+     }
 
   }
+
+    # following lines will be added by Certbot
+    #listen 443 ssl; # managed by Certbot
+    #ssl_certificate /etc/letsencrypt/live/api.juno.chandrodaya.net/fullchain.pem; # managed by Certbot
+    #ssl_certificate_key /etc/letsencrypt/live/api.juno.chandrodaya.net/privkey.pem; # managed by Certbot
+    #include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    #ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
 }
+
 
 certbot --nginx -d api.orai.chandrodaya.net -m support@chandrodaya.net --agree-tos --noninteractive --redirect
 
