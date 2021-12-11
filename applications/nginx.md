@@ -8,7 +8,7 @@
 
 [https://nymtech.net/docs/0.11.0/run-nym-nodes/validators](https://nymtech.net/docs/0.11.0/run-nym-nodes/validators)
 
-
+[nginx-reverse-proxy-error14077438ssl-ssl-do-handshake-failed](https://coderedirect.com/questions/503281/nginx-reverse-proxy-error14077438ssl-ssl-do-handshake-failed)
 
 #### 1) Nginx server
 
