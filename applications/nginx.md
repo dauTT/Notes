@@ -89,4 +89,43 @@ server {
 }
 
 certbot --nginx -d api.orai.chandrodaya.net -m support@chandrodaya.net --agree-tos --noninteractive --redirect
+
+# Create Config file
+nano /etc/nginx/conf.d/api-orai.conf
+
+server {
+  server_name  rpc.orai.chandrodaya.net  ;
+  # resolver 8.8.8.8 valid=10s;
+
+  location / {
+    
+    #set $endpoint rpc.orai.io ; 
+    #proxy_pass http://134.209.25.201:26657;
+    #proxy_pass  https://$endpoint ;
+    proxy_pass https://rpc.orai.io ; 
+    #proxy_redirect  https://$endpoint/ $host;
+     proxy_ssl_server_name on;
+     proxy_set_header Accept-Encoding "";
+
+
+     if ($request_method = 'POST') {
+        add_header 'Access-Control-Allow-Origin' '*';
+        add_header 'Access-Control-Allow-Credentials' 'true';
+        add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS';
+        add_header 'Access-Control-Allow-Headers' 'DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type';
+     }
+     if ($request_method = 'GET') {
+        add_header 'Access-Control-Allow-Origin' '*';
+        add_header 'Access-Control-Allow-Credentials' 'true';
+        add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS';
+        add_header 'Access-Control-Allow-Headers' 'DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type';
+    }
+
+  }
+}
+
+certbot --nginx -d api.orai.chandrodaya.net -m support@chandrodaya.net --agree-tos --noninteractive --redirect
+
+
+
 ```
