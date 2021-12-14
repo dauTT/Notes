@@ -9,6 +9,7 @@
 * [Vuex Crash Course | State ManagementVue](https://www.youtube.com/watch?v=5lVQgZzLMHc)
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)(chrome extension)
 * [nuxt-redirects-in-4-simple-steps](https://medium.com/dont-leave-me-out-in-the-code/nuxt-redirects-in-4-simple-steps-9a0d5cb4c0d)
+* [why-nuxtjs-is-the-perfect-framework-for-building-static-websites/](https://www.vuemastery.com/blog/why-nuxtjs-is-the-perfect-framework-for-building-static-websites/)
 
 
 
