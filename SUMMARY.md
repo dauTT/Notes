@@ -36,6 +36,7 @@
     * [Installation](languages/python/installation.md)
     * [Resources](languages/python/resources.md)
   * [Rust](languages/rust/README.md)
+    * [wasm contract](languages/rust/wasm-contract.md)
     * [Radix -Scripto](languages/rust/radix-scripto.md)
   * [JS](languages/js/README.md)
     * [Vue](languages/js/vue.md)
