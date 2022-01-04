@@ -2,13 +2,13 @@
 
 ### List all connection with are open
 
-```text
+```
 sudo ss -plunt
 ```
 
 ### Change host name
 
-```text
+```
 # Change host name:
 
 1) hostnamectl
@@ -28,14 +28,14 @@ https://linuxize.com/post/how-to-change-hostname-on-ubuntu-18-04/
 
 ### Find a name
 
-```text
+```
 # find anything which start with .ag-chain-cosmos
 find . -name ".ag-chain-cosmos*"
 ```
 
 ### Set Time Zone
 
-```text
+```
 timedatectl status
 timedatectl list-timezones
 sudo timedatectl set-timezone Europe/Zurich
@@ -43,21 +43,30 @@ sudo timedatectl set-timezone Europe/Zurich
 
 ### Show filesystem disk space
 
-```text
+```
 df -h
 df .
 ```
 
 ### Find Kernel version
 
-```text
+```
 uname -r 
 ```
 
 ### Check folder size
 
-```text
+```
 du -sh folderName
 du -chd 1 | sort -h
+```
+
+### Run cmd on the background
+
+```
+# https://www.makeuseof.com/run-linux-commands-in-background/
+# example
+tmux new -d 'ping -c 10 8.8.8.8 > output.log'
+
 ```
 
