@@ -16,4 +16,5 @@
 
 * [nit Testing VueJS components with JEST](https://www.youtube.com/watch?v=TZj60NV70QA)
 * [How to Test Nuxt Stores with Jest](https://medium.com/@brandonaaskov/how-to-test-nuxt-stores-with-jest-9a5d55d54b28)
+* [https://medium.com/@lachlanmiller\_52885/mocking-vuex-in-vue-unit-tests-b6eda1c4d301](https://medium.com/@lachlanmiller\_52885/mocking-vuex-in-vue-unit-tests-b6eda1c4d301)
 
