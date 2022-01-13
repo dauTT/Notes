@@ -11,6 +11,7 @@
 * [nuxt-redirects-in-4-simple-steps](https://medium.com/dont-leave-me-out-in-the-code/nuxt-redirects-in-4-simple-steps-9a0d5cb4c0d)
 * [why-nuxtjs-is-the-perfect-framework-for-building-static-websites/](https://www.vuemastery.com/blog/why-nuxtjs-is-the-perfect-framework-for-building-static-websites/)
 * [Nuxt JS beginner tutorial - In Depth Intro to Nuxt.js | SPA, SSR, Static Site, Vue.js Family](https://www.youtube.com/watch?v=YjmLFdXiCJU\&list=PLe30vg\_FG4OQihO5an0tNT\_dpkxig8iPz)
+* [VueJs Form Validation with Vuelidate | Diligent Dev](https://www.youtube.com/watch?v=DCD0NoSuqdc)
 
 ### Testing
 
