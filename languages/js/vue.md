@@ -13,6 +13,10 @@
 * [Nuxt JS beginner tutorial - In Depth Intro to Nuxt.js | SPA, SSR, Static Site, Vue.js Family](https://www.youtube.com/watch?v=YjmLFdXiCJU\&list=PLe30vg\_FG4OQihO5an0tNT\_dpkxig8iPz)
 * [VueJs Form Validation with Vuelidate | Diligent Dev](https://www.youtube.com/watch?v=DCD0NoSuqdc)
 
+### Images
+
+* [https://icons8.com/icons/material](https://icons8.com/icons/material)
+
 ### Testing
 
 * [nit Testing VueJS components with JEST](https://www.youtube.com/watch?v=TZj60NV70QA)
