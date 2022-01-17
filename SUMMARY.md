@@ -52,6 +52,7 @@
   * [pbcopy](installation-guide/pbcopy.md)
   * [Makefile](makefile.md)
   * [Big dipper](big-dipper/setup.md)
+  * [Twitter](applications/twitter.md)
 * [Random](random/README.md)
   * [SGX](random/resources.md)
   * [CORS](random/cors.md)
