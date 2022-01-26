@@ -10,6 +10,7 @@ ssh -T git@github.com
 ```
 
 * [https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection)
+* [https://www.devdungeon.com/content/how-specify-ssh-key-git-repository](https://www.devdungeon.com/content/how-specify-ssh-key-git-repository)
 
 ### Adding your SSH key to the ssh-agent <a href="#adding-your-ssh-key-to-the-ssh-agent" id="adding-your-ssh-key-to-the-ssh-agent"></a>
 
