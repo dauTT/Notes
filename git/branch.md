@@ -37,3 +37,13 @@ git push --delete <remote name> <branch name>
 
 ```
 
+### Pull all remote branches
+
+```
+git branch -r 
+git fetch --all
+git pull --all
+
+git branch -a
+
+```
