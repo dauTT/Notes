@@ -41,6 +41,7 @@
     * [Radix -Scripto](languages/rust/radix-scripto.md)
   * [JS](languages/js/README.md)
     * [Vue](languages/js/vue.md)
+    * [Node js](languages/js/node-js.md)
 * [Applications](cron-job/applications/README.md)
   * [Nginx](applications/nginx.md)
   * [S3cmd](cron-job/applications/s3cmd/README.md)
