@@ -12,6 +12,7 @@
 * [why-nuxtjs-is-the-perfect-framework-for-building-static-websites/](https://www.vuemastery.com/blog/why-nuxtjs-is-the-perfect-framework-for-building-static-websites/)
 * [Nuxt JS beginner tutorial - In Depth Intro to Nuxt.js | SPA, SSR, Static Site, Vue.js Family](https://www.youtube.com/watch?v=YjmLFdXiCJU\&list=PLe30vg\_FG4OQihO5an0tNT\_dpkxig8iPz)
 * [VueJs Form Validation with Vuelidate | Diligent Dev](https://www.youtube.com/watch?v=DCD0NoSuqdc)
+* setting app version: [https://www.360learntocode.com/2020/12/vuejs-how-to-get-app-version-from-package-json.html](https://www.360learntocode.com/2020/12/vuejs-how-to-get-app-version-from-package-json.html)
 
 ### Images
 
