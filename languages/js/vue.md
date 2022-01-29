@@ -26,3 +26,7 @@
 * [https://medium.com/@lachlanmiller\_52885/mocking-vuex-in-vue-unit-tests-b6eda1c4d301](https://medium.com/@lachlanmiller\_52885/mocking-vuex-in-vue-unit-tests-b6eda1c4d301)
 * [https://lmiller1990.github.io/vue-testing-handbook/computed-properties.html](https://lmiller1990.github.io/vue-testing-handbook/computed-properties.html)
 
+### CORS
+
+* [https://www.garymeehan.ie/blog/cors-and-prototyping-with-live-apis](https://www.garymeehan.ie/blog/cors-and-prototyping-with-live-apis)
+*
