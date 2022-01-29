@@ -27,10 +27,10 @@ ssh-add ~/.ssh/id_ed25519
 # Inside the local repository type
 git config --add --local core.sshCommand 'ssh -i <<<PATH_TO_SSH_KEY>>>'
 
-#example dauTT
+#example dauTT (user dauTT)
 git config --add --local core.sshCommand 'ssh -i  /home/dau/.ssh/id_ed25519'
 
-#example chandrodaya
+#example chandrodaya-net (user DTT108)
 git config --add --local core.sshCommand 'ssh -i  /home/dau/.ssh/id_rsa'
 
 # The remote repository need to configure accordingly with the corresponding pubKey
