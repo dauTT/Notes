@@ -43,6 +43,7 @@
     * [Vue](languages/js/vue.md)
     * [Node js](languages/js/node-js.md)
     * [React](languages/js/react.md)
+    * [Issues](languages/js/issues.md)
   * [html](languages/html.md)
 * [Applications](cron-job/applications/README.md)
   * [Nginx](applications/nginx.md)
