@@ -59,6 +59,7 @@
   * [Big dipper](big-dipper/setup.md)
   * [Twitter](applications/twitter.md)
   * [coingecko](applications/coingecko.md)
+  * [vscode](applications/vscode.md)
 * [Random](random/README.md)
   * [SGX](random/resources.md)
   * [CORS](random/cors.md)
