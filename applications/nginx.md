@@ -91,7 +91,7 @@ server {
 certbot --nginx -d api.orai.chandrodaya.net -m support@chandrodaya.net --agree-tos --noninteractive --redirect
 
 # Create Config file
-nano /etc/nginx/conf.d/api.juno.conf
+nano /etc/nginx/conf.d/api-juno.conf
 
 server {
   listen 82;
