@@ -162,3 +162,10 @@ tail -20  /var/log/nginx/access.log
 systemctl restart nginx
 ```
 
+### Revert Changes
+
+```
+cp backup/api-juno.conf  api-juno.conf
+cp backup/rpc-juno.conf  rpc-juno.conf
+sudo systemctl restart nginx.service 
+```
