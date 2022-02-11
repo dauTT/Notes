@@ -165,7 +165,7 @@ systemctl restart nginx
 ### Revert Changes
 
 ```
-cp backup/api-juno.conf  api-juno.conf
-cp backup/rpc-juno.conf  rpc-juno.conf
+cp /etc/nginx/conf.d/backup/api-juno.conf  api-juno.conf
+cp /etc/nginx/conf.d/backup/rpc-juno.conf  rpc-juno.conf
 sudo systemctl restart nginx.service 
 ```
