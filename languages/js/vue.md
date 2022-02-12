@@ -15,6 +15,10 @@
 * [https://explorers.netlify.com/learn/get-started-with-nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt)
 * setting app version: [https://www.360learntocode.com/2020/12/vuejs-how-to-get-app-version-from-package-json.html](https://www.360learntocode.com/2020/12/vuejs-how-to-get-app-version-from-package-json.html)
 
+### Examples
+
+* [https://vuejsexamples.com/](https://vuejsexamples.com)
+
 ### Images
 
 * [https://icons8.com/icons/material](https://icons8.com/icons/material)
