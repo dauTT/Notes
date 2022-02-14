@@ -154,6 +154,18 @@ certbot --nginx -d api.orai.chandrodaya.net -m support@chandrodaya.net --agree-t
 
 ```
 
+### Delete certificate
+
+```
+# list all certificates
+sudo certbot certificates
+
+# delete interactive certificate
+sudo certbot delete
+```
+
+
+
 ### Query logs
 
 ```
