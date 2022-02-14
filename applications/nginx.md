@@ -162,6 +162,10 @@ sudo certbot certificates
 
 # delete interactive certificate
 sudo certbot delete
+
+# delete remaining configuration related to certifacate here:
+/etc/nginx/sites-available/default
+
 ```
 
 
