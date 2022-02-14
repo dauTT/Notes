@@ -13,6 +13,7 @@
   * [Useful commands](linux/untitled.md)
   * [Unfreeze UI](linux/unfreeze-ui.md)
   * [Cron job](cron-job/untitled.md)
+  * [Firewall](linux/firewall.md)
 * [Git](git/README.md)
   * [eclipse](git/eclipse.md)
   * [Commit](git/commit.md)
