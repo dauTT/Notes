@@ -62,7 +62,7 @@ server {
 sudo apt install python3-certbot-nginx
 
 # otherwise
-sudo apt install certbot nginx python3
+# sudo apt install certbot nginx python3
 
 certbot --nginx -d rpc.orai.chandrodaya.net -m support@chandrodaya.net --agree-tos --noninteractive --redirect
 
