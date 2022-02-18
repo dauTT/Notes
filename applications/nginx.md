@@ -195,3 +195,4 @@ sudo systemctl restart nginx.service
 
 * [https://support.hypernode.com/en/hypernode/nginx/how-to-create-a-reusable-config-to-include-in-custom-snippets](https://stackoverflow.com/questions/29071168/nginx-upstream-with-http-httpshttps://support.hypernode.com/en/hypernode/nginx/how-to-create-a-reusable-config-to-include-in-custom-snippets)
 * [https://stackoverflow.com/questions/29071168/nginx-upstream-with-http-https](https://stackoverflow.com/questions/29071168/nginx-upstream-with-http-https)
+* [https://serverfault.com/questions/751678/how-can-i-replace-access-control-allow-origin-header-in-proxy-response-with-ngin](https://serverfault.com/questions/751678/how-can-i-replace-access-control-allow-origin-header-in-proxy-response-with-ngin)
