@@ -188,3 +188,8 @@ cp /etc/nginx/conf.d/backup/api-juno.conf  api-juno.conf
 cp /etc/nginx/conf.d/backup/rpc-juno.conf  rpc-juno.conf
 sudo systemctl restart nginx.service 
 ```
+
+### Resources
+
+* [https://stackoverflow.com/questions/29071168/nginx-upstream-with-http-https](https://stackoverflow.com/questions/29071168/nginx-upstream-with-http-httpshttps://support.hypernode.com/en/hypernode/nginx/how-to-create-a-reusable-config-to-include-in-custom-snippets)
+* [https://support.hypernode.com/en/hypernode/nginx/how-to-create-a-reusable-config-to-include-in-custom-snippets](https://stackoverflow.com/questions/29071168/nginx-upstream-with-http-httpshttps://support.hypernode.com/en/hypernode/nginx/how-to-create-a-reusable-config-to-include-in-custom-snippets)
