@@ -200,5 +200,5 @@ sudo systemctl restart nginx.service
 ### Count Users
 
 ```
-grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}"  juno.access.log | sort | uniq -c
+grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}"  /var/log/nginx/juno.access.log | sort | uniq -c
 ```
