@@ -61,6 +61,7 @@
   * [Twitter](applications/twitter.md)
   * [coingecko](applications/coingecko.md)
   * [vscode](applications/vscode.md)
+  * [Page 1](applications/page-1.md)
 * [Random](random/README.md)
   * [SGX](random/resources.md)
   * [CORS](random/cors.md)
