@@ -4,7 +4,7 @@
 * **3 keys**: Home, safe, post box
 * **Safe** :&#x20;
   * **ledger passphrase**
-  * **Nash passphrase**
+  * **Nash passphrase :** [**https://nash.io/**](https://nash.io)****
   * **Orai chandrodaya passphrase**
   * **juno chanrodaya passphrase**
   * **20k CHF**
