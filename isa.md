@@ -53,5 +53,13 @@
     * [https://www.kucoin.com/](https://www.kucoin.com)
 
 
-* DEX
+* DEX (Decentralize Exchange):
+  *   cosmos ecosystem
+
+      * [https://junoswap.com/](https://junoswap.com)
+      * [https://app.osmosis.zone/](https://app.osmosis.zone)
+
+
+  * Ethereum:
+    * [https://uniswap.org/](https://uniswap.org)
 
