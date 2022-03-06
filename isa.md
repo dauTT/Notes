@@ -13,5 +13,14 @@
     * [https://support.ledger.com/hc/en-us/articles/4404382560913-Restore-from-recovery-phrase?support=true](https://support.ledger.com/hc/en-us/articles/4404382560913-Restore-from-recovery-phrase?support=true)
   * **Forget PIN**:
     * [https://support.ledger.com/hc/en-us/articles/4405737674129-Forgot-your-PIN-code-?support=true](https://support.ledger.com/hc/en-us/articles/4405737674129-Forgot-your-PIN-code-?support=true)
-  * **Install ledger live desktop**:
-    * [https://www.ledger.com/ledger-live/download#download-device-1](https://www.ledger.com/ledger-live/download#download-device-1)
+  *   **Install ledger live desktop**:
+
+      * [https://www.ledger.com/ledger-live/download#download-device-1](https://www.ledger.com/ledger-live/download#download-device-1)
+
+
+* **Install apps with Ledger live desktop**
+
+![](<.gitbook/assets/image (11).png>)
+
+
+

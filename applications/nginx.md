@@ -16,7 +16,7 @@
 
 #### 2) Subdomain creation
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 #### 3) Configure Nginx
 
