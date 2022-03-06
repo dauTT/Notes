@@ -58,6 +58,20 @@
   * **Cosmos ecosystem**
     * [https://junoswap.com/](https://junoswap.com)
     * [https://app.osmosis.zone/](https://app.osmosis.zone)
-  * **Ethereum**:
-    * [https://uniswap.org/](https://uniswap.org)
+  *   **Ethereum**:
 
+      * [https://uniswap.org/](https://uniswap.org)
+
+
+* **Credit Swiss Accounts**
+
+![](<.gitbook/assets/image (10).png>)
+
+* **Postfinance accounts: CH15 0900 0000 6521 0856 6**
+  * 25K CHF
+
+****
+
+****
+
+****
