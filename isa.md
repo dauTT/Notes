@@ -22,5 +22,5 @@
 
 ![](<.gitbook/assets/image (11).png>)
 
-
+**Browser**: Brave 1.27.111
 
