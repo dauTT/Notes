@@ -6,7 +6,7 @@
   * **ledger passphrase**
   * **Nash passphrase :** [**https://nash.io/**](https://nash.io)****
   * **Orai chandrodaya passphrase :** [**https://scan.orai.io/**](https://scan.orai.io)****
-  * **juno chanrodaya passphrase : Chrome Keplr extension -->** [**https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en**](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)****
+  * **juno chanrodaya passphrase**&#x20;
   * **20k CHF**
 * **Ledger nano S**
   * **Restore keys new device** :&#x20;
