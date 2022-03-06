@@ -24,3 +24,16 @@
 
 **Browser**: Brave 1.27.111
 
+>
+>
+> a) https://github.com/brave/brave-browser/releases/tag/v1.27.110 b) download & run: BraweBrowserStandaloneSetup.exe
+>
+> https://www.publish0x.com/random/stop-brave-browser-from-auto-updating-on-windows-xqwmgo https://community.brave.com/t/the-option-to-turn-on-off-automatic-updates-please/194718/4
+>
+> 1. open this file as administrator: C:\Windows\System32\drivers\etc\hosts add following lines: 0.0.0.0 laptop-updates.brave.com 0.0.0.0 go-updater.brave.com
+> 2. Disable brave update services: a) Open services.msc via Run (Win+R) b) Select Brave Update service and change Startup type to Disabled
+> 3. Disable task scheduler brave update services: a) Open "Task scheduler" b) Disable "Brave Update" task
+
+```
+```
+
