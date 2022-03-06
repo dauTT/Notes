@@ -2,6 +2,7 @@
 
 * **Dau's address**: Burgmatt 7, Baar (Zug)
 * **3 keys**: Home, safe, post box
+* **Official documents: family certificates, passport copy, ....**
 * **Safe** :&#x20;
   * **ledger passphrase**
   * **Nash passphrase :** [**https://nash.io/**](https://nash.io)****
