@@ -9,5 +9,7 @@
   * **juno chanrodaya passphrase**
   * **20k CHF**
 * **Ledger nano S**
-  * Reset device :&#x20;
+  * **Restore keys new device** :&#x20;
     * [https://support.ledger.com/hc/en-us/articles/4404382560913-Restore-from-recovery-phrase?support=true](https://support.ledger.com/hc/en-us/articles/4404382560913-Restore-from-recovery-phrase?support=true)
+  * **Forget PIN**:
+    * [https://support.ledger.com/hc/en-us/articles/4405737674129-Forgot-your-PIN-code-?support=true](https://support.ledger.com/hc/en-us/articles/4405737674129-Forgot-your-PIN-code-?support=true)
