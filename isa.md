@@ -48,7 +48,8 @@
 *   **CEX (Centralize Exchange)**:
 
     * [https://www.binance.com/en](https://www.binance.com/en) &#x20;
-      * **Send coins here to liguidate them and get fiat back**
+      * **Send coins here to liguidate them and get fiat back.**&#x20;
+        * **Coins -> (USDT->) BUSD -> FIAT**
       * **Coins which are not supported by Binance need to be converted using DEX / CEX**&#x20;
         * **(example: JUNO, ORAI)**
     * [https://www.kucoin.com/](https://www.kucoin.com)
