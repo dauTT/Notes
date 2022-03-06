@@ -64,6 +64,11 @@
       * [https://uniswap.org/](https://uniswap.org)
 
 
+*   **Price**:
+
+    * [https://coinmarketcap.com/](https://coinmarketcap.com)
+
+
 * **Credit Swiss Accounts**
 
 ![](<.gitbook/assets/image (10).png>)
