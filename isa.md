@@ -49,7 +49,8 @@
 
     * [https://www.binance.com/en](https://www.binance.com/en) &#x20;
       * **Send coins here to liguidate them and get fiat back**
-      * **Coins which are not supported by Binance need to be converted using DEX / CEX**
+      * **Coins which are not supported by Binance need to be converted using DEX / CEX**&#x20;
+        * **(example: JUNO)**
     * [https://www.kucoin.com/](https://www.kucoin.com)
 
 
