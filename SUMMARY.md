@@ -22,6 +22,7 @@
   * [branch](git/branch.md)
   * [Permission](git/permission.md)
   * [Merge](git/merge.md)
+  * [Clean](git/clean.md)
   * [Github](git/github.md)
 * [Languages](languages/README.md)
   * [Go](languages/go/README.md)
