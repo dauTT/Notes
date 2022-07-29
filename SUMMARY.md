@@ -41,6 +41,7 @@
   * [Rust](languages/rust/README.md)
     * [wasm contract](languages/rust/wasm-contract.md)
     * [Radix -Scripto](languages/rust/radix-scripto.md)
+    * [FAQ](languages/rust/faq.md)
   * [JS](languages/js/README.md)
     * [Vue](languages/js/vue.md)
     * [Node js](languages/js/node-js.md)
