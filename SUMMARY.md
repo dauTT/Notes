@@ -15,6 +15,7 @@
   * [Cron job](cron-job/untitled.md)
   * [Firewall](linux/firewall.md)
 * [Git](git/README.md)
+  * [Stage/Unstage](git/stage-unstage.md)
   * [eclipse](git/eclipse.md)
   * [Commit](git/commit.md)
   * [Tag](git/tag.md)
