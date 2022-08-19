@@ -13,4 +13,6 @@
 * integer:
   * [https://towardsdatascience.com/unsinged-signed-integers-and-casting-in-rust-9a847bfc398f](https://towardsdatascience.com/unsinged-signed-integers-and-casting-in-rust-9a847bfc398f)
 
-###
+### Lifetime:
+
+* [https://www.youtube.com/watch?v=QoEX-Vu-R6k](https://www.youtube.com/watch?v=QoEX-Vu-R6k)
