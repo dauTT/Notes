@@ -11,3 +11,8 @@ change limit:
 ```
 gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
 ```
+
+[https://yulijia.net/en/howto/2020/05/04/How-to-convert-webm-to-gif-on-Linux.html](https://yulijia.net/en/howto/2020/05/04/How-to-convert-webm-to-gif-on-Linux.html)
+
+
+
