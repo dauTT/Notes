@@ -13,6 +13,7 @@
   * [Useful commands](linux/untitled.md)
   * [Unfreeze UI](linux/unfreeze-ui.md)
   * [Cron job](cron-job/untitled.md)
+  * [screen video](linux/screen-video.md)
   * [Firewall](linux/firewall.md)
 * [Git](git/README.md)
   * [Stage/Unstage](git/stage-unstage.md)
