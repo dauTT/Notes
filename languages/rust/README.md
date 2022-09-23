@@ -12,6 +12,9 @@
 
 * integer:
   * [https://towardsdatascience.com/unsinged-signed-integers-and-casting-in-rust-9a847bfc398f](https://towardsdatascience.com/unsinged-signed-integers-and-casting-in-rust-9a847bfc398f)
+* macros:
+  * [https://danielkeep.github.io/tlborm/book/pat-incremental-tt-munchers.html](https://danielkeep.github.io/tlborm/book/pat-incremental-tt-munchers.html)
+  * [https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/)
 
 ### Lifetime:
 
