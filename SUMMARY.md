@@ -50,6 +50,7 @@
     * [Node js](languages/js/node-js.md)
     * [React](languages/js/react.md)
     * [Issues](languages/js/issues.md)
+    * [CSS](languages/js/css.md)
   * [html](languages/html.md)
 * [Applications](cron-job/applications/README.md)
   * [Nginx](applications/nginx.md)
