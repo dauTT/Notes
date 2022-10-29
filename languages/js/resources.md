@@ -5,3 +5,4 @@
   * React: [https://www.youtube.com/watch?v=j942wKiXFu8](https://www.youtube.com/watch?v=j942wKiXFu8)
 * React hooks:
   * [https://www.youtube.com/watch?v=LlvBzyy-558](https://www.youtube.com/watch?v=LlvBzyy-558)
+  * [https://github.com/machadop1407/react-hooks-course](https://github.com/machadop1407/react-hooks-course)
