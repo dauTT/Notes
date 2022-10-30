@@ -6,3 +6,7 @@
 * React hooks:
   * [https://www.youtube.com/watch?v=LlvBzyy-558](https://www.youtube.com/watch?v=LlvBzyy-558)
   * [https://github.com/machadop1407/react-hooks-course](https://github.com/machadop1407/react-hooks-course)
+  * Web dev Simplified:
+    * useCallback: [https://www.youtube.com/watch?v=\_AyFP5s69N4](https://www.youtube.com/watch?v=\_AyFP5s69N4)
+    * useMemo: [https://www.youtube.com/watch?v=THL1OPn72vo](https://www.youtube.com/watch?v=THL1OPn72vo)
+    *
