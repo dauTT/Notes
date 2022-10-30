@@ -6,7 +6,7 @@
 * React hooks:
   * [https://www.youtube.com/watch?v=LlvBzyy-558](https://www.youtube.com/watch?v=LlvBzyy-558)
   * [https://github.com/machadop1407/react-hooks-course](https://github.com/machadop1407/react-hooks-course)
-  * Web dev Simplified:
-    * useCallback: [https://www.youtube.com/watch?v=\_AyFP5s69N4](https://www.youtube.com/watch?v=\_AyFP5s69N4)
-    * useMemo: [https://www.youtube.com/watch?v=THL1OPn72vo](https://www.youtube.com/watch?v=THL1OPn72vo)
+  * useCallback: [https://www.youtube.com/watch?v=\_AyFP5s69N4](https://www.youtube.com/watch?v=\_AyFP5s69N4) (Web dev Simplified:)
+    * [https://www.youtube.com/watch?v=S\_DdNTKrwh8\&list=PLTP3E5bPW795slOTA6h1-NIal35YBDw0r\&index=6](https://www.youtube.com/watch?v=S\_DdNTKrwh8\&list=PLTP3E5bPW795slOTA6h1-NIal35YBDw0r\&index=6)
+  * useMemo: [https://www.youtube.com/watch?v=THL1OPn72vo](https://www.youtube.com/watch?v=THL1OPn72vo)
   * custom hook: [https://www.youtube.com/watch?v=h2fh\_pdISeI](https://www.youtube.com/watch?v=h2fh\_pdISeI)
