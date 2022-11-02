@@ -10,3 +10,4 @@
     * [https://www.youtube.com/watch?v=S\_DdNTKrwh8\&list=PLTP3E5bPW795slOTA6h1-NIal35YBDw0r\&index=6](https://www.youtube.com/watch?v=S\_DdNTKrwh8\&list=PLTP3E5bPW795slOTA6h1-NIal35YBDw0r\&index=6)
   * useMemo: [https://www.youtube.com/watch?v=THL1OPn72vo](https://www.youtube.com/watch?v=THL1OPn72vo)
   * custom hook: [https://www.youtube.com/watch?v=h2fh\_pdISeI](https://www.youtube.com/watch?v=h2fh\_pdISeI)
+  * useContext: [https://www.youtube.com/watch?v=5LrDIWkK\_Bc](https://www.youtube.com/watch?v=5LrDIWkK\_Bc)
