@@ -12,3 +12,10 @@
   * useMemo: [https://www.youtube.com/watch?v=THL1OPn72vo](https://www.youtube.com/watch?v=THL1OPn72vo)
   * custom hook: [https://www.youtube.com/watch?v=h2fh\_pdISeI](https://www.youtube.com/watch?v=h2fh\_pdISeI)
   * useContext: [https://www.youtube.com/watch?v=5LrDIWkK\_Bc](https://www.youtube.com/watch?v=5LrDIWkK\_Bc)
+
+
+
+### Next:
+
+* Next.js For React Developers | Everything You Need To Know: [https://www.youtube.com/watch?v=omV9GEpQUGk](https://www.youtube.com/watch?v=omV9GEpQUGk)
+*
