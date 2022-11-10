@@ -17,6 +17,10 @@
 ### React
 
 * **codeevolution** : [https://www.youtube.com/watch?v=QFaFIcGhPoM\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3](https://www.youtube.com/watch?v=QFaFIcGhPoM\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+  * 5 - functional component: [https://www.youtube.com/watch?v=Cla1WwguArA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=5](https://www.youtube.com/watch?v=Cla1WwguArA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=5)
+  * 6- class component: [https://www.youtube.com/watch?v=lnV34uLEzis\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=6](https://www.youtube.com/watch?v=lnV34uLEzis\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=6)
+  * 7 - hooks update: [https://www.youtube.com/watch?v=oecI26cWqzk\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=7](https://www.youtube.com/watch?v=oecI26cWqzk\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=7)
+  * 8 - JSX: [https://www.youtube.com/watch?v=7fPXI\_MnBOY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=8](https://www.youtube.com/watch?v=7fPXI\_MnBOY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=8)
   * 9 - props: [https://www.youtube.com/watch?v=m7OWXtbiXX8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=9](https://www.youtube.com/watch?v=m7OWXtbiXX8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=9)
 
 
