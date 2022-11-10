@@ -17,6 +17,7 @@
 ### React
 
 * **codeevolution** : [https://www.youtube.com/watch?v=QFaFIcGhPoM\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3](https://www.youtube.com/watch?v=QFaFIcGhPoM\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+  * 9 - props: [https://www.youtube.com/watch?v=m7OWXtbiXX8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=9](https://www.youtube.com/watch?v=m7OWXtbiXX8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=9)
 
 
 
