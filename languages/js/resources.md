@@ -25,6 +25,7 @@
   * 15 - Methods as props: [https://www.youtube.com/watch?v=QpfyjwhY9kg\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=15](https://www.youtube.com/watch?v=QpfyjwhY9kg\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=15)
   * 16- conditional rendering: [https://www.youtube.com/watch?v=7o5FPaVA9m0\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=16](https://www.youtube.com/watch?v=7o5FPaVA9m0\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=16)
   * 17 - list rendering: [https://www.youtube.com/watch?v=5s8Ol9uw-yM\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=17](https://www.youtube.com/watch?v=5s8Ol9uw-yM\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=17)
+  * 18 - list and keys: [https://www.youtube.com/watch?v=0sasRxl35\_8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=18](https://www.youtube.com/watch?v=0sasRxl35\_8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=18)
 
 
 
