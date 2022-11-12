@@ -31,7 +31,7 @@
   * 21 - basic of form handling: [https://www.youtube.com/watch?v=7Vo\_VCcWupQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=21](https://www.youtube.com/watch?v=7Vo\_VCcWupQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=21)
   * 22 - lifecycle methods: [https://www.youtube.com/watch?v=qnN\_FuFNq2g\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=22](https://www.youtube.com/watch?v=qnN\_FuFNq2g\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=22)
     * ![](<../../.gitbook/assets/image (1).png>)
-  * 23 -&#x20;
+  * 23 - mounting lifecycle method
 *
 
 ### Next:
