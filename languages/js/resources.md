@@ -29,6 +29,7 @@
   * 19 - index as keys anti-pattern: [https://www.youtube.com/watch?v=xlPxnc5uUPQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=19](https://www.youtube.com/watch?v=xlPxnc5uUPQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=19)
   * 20 - styling and CSS basics: [https://www.youtube.com/watch?v=j5P9FHiBVNo\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=20](https://www.youtube.com/watch?v=j5P9FHiBVNo\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=20)
   * 21 - basic of form handling: [https://www.youtube.com/watch?v=7Vo\_VCcWupQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=21](https://www.youtube.com/watch?v=7Vo\_VCcWupQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=21)
+  * 22 - lifecycle methods: [https://www.youtube.com/watch?v=qnN\_FuFNq2g\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=22](https://www.youtube.com/watch?v=qnN\_FuFNq2g\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=22)
 
 
 
