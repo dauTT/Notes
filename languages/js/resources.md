@@ -32,7 +32,9 @@
   * 22 - lifecycle methods: [https://www.youtube.com/watch?v=qnN\_FuFNq2g\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=22](https://www.youtube.com/watch?v=qnN\_FuFNq2g\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=22)
     * ![](<../../.gitbook/assets/image (1).png>)
   * 23 - mounting lifecycle method: [https://www.youtube.com/watch?v=KDXZibVdiEI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=23](https://www.youtube.com/watch?v=KDXZibVdiEI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=23)
-*
+  * 24 - update lifecycle method: [https://www.youtube.com/watch?v=DyPkojd1fas\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=24](https://www.youtube.com/watch?v=DyPkojd1fas\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=24)
+
+
 
 ### Next:
 
