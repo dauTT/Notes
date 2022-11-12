@@ -27,6 +27,8 @@
   * 17 - list rendering: [https://www.youtube.com/watch?v=5s8Ol9uw-yM\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=17](https://www.youtube.com/watch?v=5s8Ol9uw-yM\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=17)
   * 18 - list and keys: [https://www.youtube.com/watch?v=0sasRxl35\_8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=18](https://www.youtube.com/watch?v=0sasRxl35\_8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=18)
   * 19 - index as keys anti-pattern: [https://www.youtube.com/watch?v=xlPxnc5uUPQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=19](https://www.youtube.com/watch?v=xlPxnc5uUPQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=19)
+  * 20 - styling and CSS basics: [https://www.youtube.com/watch?v=j5P9FHiBVNo\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=20](https://www.youtube.com/watch?v=j5P9FHiBVNo\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=20)
+  * 21 - basic of form handling: [https://www.youtube.com/watch?v=7Vo\_VCcWupQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=21](https://www.youtube.com/watch?v=7Vo\_VCcWupQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=21)
 
 
 
