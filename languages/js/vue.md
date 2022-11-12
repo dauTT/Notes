@@ -17,7 +17,7 @@
 
 ### Examples
 
-* [https://vuejsexamples.com/](https://vuejsexamples.com)
+* [https://vuejsexamples.com/](https://vuejsexamples.com/)
 
 
 
@@ -41,6 +41,10 @@
   * jest --updateSnapshot
 
 
+
+### Vue 3:
+
+* [https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL\_1f](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL\_1f)
 
 ### CORS
 

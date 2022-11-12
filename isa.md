@@ -5,8 +5,8 @@
 * **Official documents: family certificates, passport copy, ....**
 * **Safe** :&#x20;
   * **ledger passphrase**
-  * **Nash passphrase :** [**https://nash.io/**](https://nash.io)****
-  * **Orai chandrodaya passphrase :** [**https://scan.orai.io/**](https://scan.orai.io)****
+  * **Nash passphrase :** [**https://nash.io/**](https://nash.io/)****
+  * **Orai chandrodaya passphrase :** [**https://scan.orai.io/**](https://scan.orai.io/)****
   * **juno chanrodaya passphrase**&#x20;
   * **20k CHF**
 * **Ledger nano S**
@@ -52,21 +52,21 @@
         * **Coins -> (USDT->) BUSD -> FIAT**
       * **Coins which are not supported by Binance need to be converted in supported coins using DEX / CEX**&#x20;
         * **(example: JUNO, ORAI)**
-    * [https://www.kucoin.com/](https://www.kucoin.com)
+    * [https://www.kucoin.com/](https://www.kucoin.com/)
 
 
 * **DEX (Decentralize Exchange)**:
   * **Cosmos ecosystem**
-    * [https://junoswap.com/](https://junoswap.com)
-    * [https://app.osmosis.zone/](https://app.osmosis.zone)
+    * [https://junoswap.com/](https://junoswap.com/)
+    * [https://app.osmosis.zone/](https://app.osmosis.zone/)
   *   **Ethereum**:
 
-      * [https://uniswap.org/](https://uniswap.org)
+      * [https://uniswap.org/](https://uniswap.org/)
 
 
 *   **Price**:
 
-    * [https://coinmarketcap.com/](https://coinmarketcap.com)
+    * [https://coinmarketcap.com/](https://coinmarketcap.com/)
 
 
 * **Credit Swiss Accounts**

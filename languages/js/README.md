@@ -6,7 +6,7 @@
 
 ### Style
 
-* [fontawesome](https://fontawesome.com)
+* [fontawesome](https://fontawesome.com/)
 
 
 
