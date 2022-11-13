@@ -33,6 +33,12 @@
     * ![](<../../.gitbook/assets/image (1).png>)
   * 23 - mounting lifecycle method: [https://www.youtube.com/watch?v=KDXZibVdiEI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=23](https://www.youtube.com/watch?v=KDXZibVdiEI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=23)
   * 24 - update lifecycle method: [https://www.youtube.com/watch?v=DyPkojd1fas\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=24](https://www.youtube.com/watch?v=DyPkojd1fas\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=24)
+  * 25 - fragment: [https://www.youtube.com/watch?v=bHdh1T0-US4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=25](https://www.youtube.com/watch?v=bHdh1T0-US4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=25)
+  * 26 - pure components: [https://www.youtube.com/watch?v=YCRuTT31qR0\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=26](https://www.youtube.com/watch?v=YCRuTT31qR0\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=26)
+  * 27- memo: [https://www.youtube.com/watch?v=7TaBhrnPH78\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=27](https://www.youtube.com/watch?v=7TaBhrnPH78\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=27)
+  * 28 -refs: [https://www.youtube.com/watch?v=FXa9mMTKOu8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=28](https://www.youtube.com/watch?v=FXa9mMTKOu8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=28)
+  * 29 - refs with class component: [https://www.youtube.com/watch?v=8aCXVC9Qmto\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=29](https://www.youtube.com/watch?v=8aCXVC9Qmto\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=29)
+  * 30- refs forwarding: [https://www.youtube.com/watch?v=RLWniwmfdq4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=30](https://www.youtube.com/watch?v=RLWniwmfdq4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=30)
 
 
 
