@@ -39,6 +39,12 @@
   * 28 -refs: [https://www.youtube.com/watch?v=FXa9mMTKOu8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=28](https://www.youtube.com/watch?v=FXa9mMTKOu8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=28)
   * 29 - refs with class component: [https://www.youtube.com/watch?v=8aCXVC9Qmto\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=29](https://www.youtube.com/watch?v=8aCXVC9Qmto\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=29)
   * 30- refs forwarding: [https://www.youtube.com/watch?v=RLWniwmfdq4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=30](https://www.youtube.com/watch?v=RLWniwmfdq4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=30)
+  * 31 - portals: [https://www.youtube.com/watch?v=HpHLa-5Wdys\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=31](https://www.youtube.com/watch?v=HpHLa-5Wdys\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=31)
+  * 32 - erro boundary: [https://www.youtube.com/watch?v=DNYXgtZBRPE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=32](https://www.youtube.com/watch?v=DNYXgtZBRPE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=32)
+  * 33- higher order component - part 1: [https://www.youtube.com/watch?v=B6aNv8nkUSw\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=33](https://www.youtube.com/watch?v=B6aNv8nkUSw\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=33)
+  * 34 - higher order component - part 2: [https://www.youtube.com/watch?v=rsBQj6X7UK8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=34](https://www.youtube.com/watch?v=rsBQj6X7UK8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=34)
+  * 35 - higher order component - part 3: [https://www.youtube.com/watch?v=l8V59zIdBXU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=35](https://www.youtube.com/watch?v=l8V59zIdBXU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=35)
+  * 36 - render props (part 1): [https://www.youtube.com/watch?v=NdapMDgNhtE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=36](https://www.youtube.com/watch?v=NdapMDgNhtE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=36)
 
 
 
