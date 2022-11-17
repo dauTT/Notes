@@ -57,7 +57,12 @@
 ### Next:
 
 * Next.js For React Developers | Everything You Need To Know: [https://www.youtube.com/watch?v=omV9GEpQUGk](https://www.youtube.com/watch?v=omV9GEpQUGk)
-* **Codeevolution**: [https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
+* **Codeevolution**:
+  * 1- Introduction: [https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
+  * 2 - Hello world: [https://www.youtube.com/watch?v=RY6B7JSBRRg\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=2](https://www.youtube.com/watch?v=RY6B7JSBRRg\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=2)
+    * &#x20;npx create-next-app hello-world
+  * 3 - project folder structure: [https://www.youtube.com/watch?v=e-3UPyuOCq0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=3](https://www.youtube.com/watch?v=e-3UPyuOCq0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=3)
+  * 4 - routing: [https://www.youtube.com/watch?v=fUG8h5XopnU\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=4](https://www.youtube.com/watch?v=fUG8h5XopnU\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=4)
 
 
 
