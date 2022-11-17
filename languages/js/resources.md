@@ -45,6 +45,12 @@
   * 34 - higher order component - part 2: [https://www.youtube.com/watch?v=rsBQj6X7UK8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=34](https://www.youtube.com/watch?v=rsBQj6X7UK8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=34)
   * 35 - higher order component - part 3: [https://www.youtube.com/watch?v=l8V59zIdBXU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=35](https://www.youtube.com/watch?v=l8V59zIdBXU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=35)
   * 36 - render props (part 1): [https://www.youtube.com/watch?v=NdapMDgNhtE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=36](https://www.youtube.com/watch?v=NdapMDgNhtE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=36)
+  * 37 - render props (part 2): [https://www.youtube.com/watch?v=EZil2OTyB4w\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=37](https://www.youtube.com/watch?v=EZil2OTyB4w\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=37)
+  * 38 - context (part 1): [https://www.youtube.com/watch?v=j3j8St50fNY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=38](https://www.youtube.com/watch?v=j3j8St50fNY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=38)
+  * 39 - context (part 2) : [https://www.youtube.com/watch?v=lTjQjWemKgE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=39](https://www.youtube.com/watch?v=lTjQjWemKgE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=39)
+  * 40 - context (part 3): [https://www.youtube.com/watch?v=A9WlkhdLnn0\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=40](https://www.youtube.com/watch?v=A9WlkhdLnn0\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=40)
+  * 41 - Http and react: [https://www.youtube.com/watch?v=GTmjthNvrxY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=41](https://www.youtube.com/watch?v=GTmjthNvrxY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=41)
+  *
 
 
 
