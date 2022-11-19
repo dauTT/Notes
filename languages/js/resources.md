@@ -76,7 +76,7 @@
   * 3 - project folder structure: [https://www.youtube.com/watch?v=e-3UPyuOCq0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=3](https://www.youtube.com/watch?v=e-3UPyuOCq0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=3)
   * 4 - routing intro: [https://www.youtube.com/watch?v=fUG8h5XopnU\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=4](https://www.youtube.com/watch?v=fUG8h5XopnU\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=4)
   * 5 - routing with pages: [https://www.youtube.com/watch?v=hvYKrqnY8LM\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=5](https://www.youtube.com/watch?v=hvYKrqnY8LM\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=5)
-  * 6 -&#x20;
+  * 6 - nested routes: [https://www.youtube.com/watch?v=f-6GAntaum4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=6](https://www.youtube.com/watch?v=f-6GAntaum4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=6)
 
 
 
