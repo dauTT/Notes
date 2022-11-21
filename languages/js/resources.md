@@ -62,7 +62,13 @@
     * 4 - useState with Object: [https://www.youtube.com/watch?v=-3lL8oyev9w\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=47](https://www.youtube.com/watch?v=-3lL8oyev9w\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=47)
     * 5 - useState with array: [https://www.youtube.com/watch?v=RZ5wKYbOM\_I\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=48](https://www.youtube.com/watch?v=RZ5wKYbOM\_I\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=48)
     * 6 - useEffect: [https://www.youtube.com/watch?v=06Y6aJzTmXY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=49](https://www.youtube.com/watch?v=06Y6aJzTmXY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=49)
-    *
+    * 7 - useEffect after render: [https://www.youtube.com/watch?v=nAuWOnFMlOw\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=50](https://www.youtube.com/watch?v=nAuWOnFMlOw\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=50)
+    * 8 - conditional render effect: [https://www.youtube.com/watch?v=8DYlzVUTC7s\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=51](https://www.youtube.com/watch?v=8DYlzVUTC7s\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=51)
+    * 9 - Rune effect only once: [https://www.youtube.com/watch?v=BH4xvzHa7H8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=52](https://www.youtube.com/watch?v=BH4xvzHa7H8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=52)
+    * 10 - useEffect with cleanup: [https://www.youtube.com/watch?v=DTlmk6QeOHY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=53](https://www.youtube.com/watch?v=DTlmk6QeOHY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=53)
+    * 11 - useEffect with indirect dependency: [https://www.youtube.com/watch?v=SP-NrbQHFww\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=54](https://www.youtube.com/watch?v=SP-NrbQHFww\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=54)
+    * 12 - fetching data with useEffect (part 1): [https://www.youtube.com/watch?v=bYFYF2GnMy8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=55](https://www.youtube.com/watch?v=bYFYF2GnMy8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=55)
+    * 13 - fetching data with useEffect (part 2): [https://www.youtube.com/watch?v=1tfd6ANaNRY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=56](https://www.youtube.com/watch?v=1tfd6ANaNRY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=56)
 
 
 
