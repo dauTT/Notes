@@ -69,6 +69,13 @@
     * 11 - useEffect with indirect dependency: [https://www.youtube.com/watch?v=SP-NrbQHFww\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=54](https://www.youtube.com/watch?v=SP-NrbQHFww\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=54)
     * 12 - fetching data with useEffect (part 1): [https://www.youtube.com/watch?v=bYFYF2GnMy8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=55](https://www.youtube.com/watch?v=bYFYF2GnMy8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=55)
     * 13 - fetching data with useEffect (part 2): [https://www.youtube.com/watch?v=1tfd6ANaNRY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=56](https://www.youtube.com/watch?v=1tfd6ANaNRY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=56)
+    * 14 - fetching data with useEffect (part 3): [https://www.youtube.com/watch?v=zm\_09NER-R0\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=57](https://www.youtube.com/watch?v=zm\_09NER-R0\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=57)
+    * 15 - useContext hook (part 1): [https://www.youtube.com/watch?v=CI7EYWmRDJE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=58](https://www.youtube.com/watch?v=CI7EYWmRDJE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=58)
+    * 16 - useContext hook part 2: [https://www.youtube.com/watch?v=tEqNSOhCHLU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=59](https://www.youtube.com/watch?v=tEqNSOhCHLU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=59)
+    * 17 - useContext hook part 3: [https://www.youtube.com/watch?v=UjjtvroahBU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=60](https://www.youtube.com/watch?v=UjjtvroahBU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=60)
+    * 18 - useReducer hook: [https://www.youtube.com/watch?v=cVYp4u1m6iA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=61](https://www.youtube.com/watch?v=cVYp4u1m6iA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=61)
+    * 19 - useReducer (simple state & action): [https://www.youtube.com/watch?v=IHJ-TO\_1nME\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=62](https://www.youtube.com/watch?v=IHJ-TO\_1nME\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=62)
+    * 20 - useReducer (complex state & action): [https://www.youtube.com/watch?v=uX7lxFrWUbA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=63](https://www.youtube.com/watch?v=uX7lxFrWUbA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=63)
 
 
 
@@ -83,6 +90,10 @@
   * 4 - routing intro: [https://www.youtube.com/watch?v=fUG8h5XopnU\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=4](https://www.youtube.com/watch?v=fUG8h5XopnU\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=4)
   * 5 - routing with pages: [https://www.youtube.com/watch?v=hvYKrqnY8LM\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=5](https://www.youtube.com/watch?v=hvYKrqnY8LM\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=5)
   * 6 - nested routes: [https://www.youtube.com/watch?v=f-6GAntaum4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=6](https://www.youtube.com/watch?v=f-6GAntaum4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=6)
+  * 7 - dynamic route: [https://www.youtube.com/watch?v=Ql5kyJaYbls\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=7](https://www.youtube.com/watch?v=Ql5kyJaYbls\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=7)
+  * 8 - nested dynamic routes: [https://www.youtube.com/watch?v=nfAxNTmme64\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=8](https://www.youtube.com/watch?v=nfAxNTmme64\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=8)
+  * 9 - catch all routes: [https://www.youtube.com/watch?v=ZHn726VDoIY\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=9](https://www.youtube.com/watch?v=ZHn726VDoIY\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=9)
+  *
 
 
 
