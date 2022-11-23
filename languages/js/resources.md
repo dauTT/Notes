@@ -76,6 +76,12 @@
     * 18 - useReducer hook: [https://www.youtube.com/watch?v=cVYp4u1m6iA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=61](https://www.youtube.com/watch?v=cVYp4u1m6iA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=61)
     * 19 - useReducer (simple state & action): [https://www.youtube.com/watch?v=IHJ-TO\_1nME\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=62](https://www.youtube.com/watch?v=IHJ-TO\_1nME\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=62)
     * 20 - useReducer (complex state & action): [https://www.youtube.com/watch?v=uX7lxFrWUbA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=63](https://www.youtube.com/watch?v=uX7lxFrWUbA\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=63)
+    * 21 - multiple useReducers: [https://www.youtube.com/watch?v=5DsCKNRA8s4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=64](https://www.youtube.com/watch?v=5DsCKNRA8s4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=64)
+    * 22 - useReducer with useContext: [https://www.youtube.com/watch?v=BCD2irXaVoE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=65](https://www.youtube.com/watch?v=BCD2irXaVoE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=65)
+    * 23 - Fetching data with useReducer (part 1): [https://www.youtube.com/watch?v=snzS7-73SEQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=66](https://www.youtube.com/watch?v=snzS7-73SEQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=66)
+    * 24 - Fetching data with useReducer (part 2): [https://www.youtube.com/watch?v=imjfiXxvMD8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=67](https://www.youtube.com/watch?v=imjfiXxvMD8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=67)
+    * 25 - useState vs useReducer: [https://www.youtube.com/watch?v=3VClygDRSsU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=68](https://www.youtube.com/watch?v=3VClygDRSsU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=68)
+    * 26 - useCallback hook: [https://www.youtube.com/watch?v=IL82CzlaCys\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=69](https://www.youtube.com/watch?v=IL82CzlaCys\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=69)
 
 
 
