@@ -82,6 +82,7 @@
     * 24 - Fetching data with useReducer (part 2): [https://www.youtube.com/watch?v=imjfiXxvMD8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=67](https://www.youtube.com/watch?v=imjfiXxvMD8\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=67)
     * 25 - useState vs useReducer: [https://www.youtube.com/watch?v=3VClygDRSsU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=68](https://www.youtube.com/watch?v=3VClygDRSsU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=68)
     * 26 - useCallback hook: [https://www.youtube.com/watch?v=IL82CzlaCys\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=69](https://www.youtube.com/watch?v=IL82CzlaCys\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=69)
+    * 27 - useMemo hook: [https://www.youtube.com/watch?v=qySZIzZvZOY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=70](https://www.youtube.com/watch?v=qySZIzZvZOY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=70)
 
 
 
@@ -99,7 +100,11 @@
   * 7 - dynamic route: [https://www.youtube.com/watch?v=Ql5kyJaYbls\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=7](https://www.youtube.com/watch?v=Ql5kyJaYbls\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=7)
   * 8 - nested dynamic routes: [https://www.youtube.com/watch?v=nfAxNTmme64\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=8](https://www.youtube.com/watch?v=nfAxNTmme64\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=8)
   * 9 - catch all routes: [https://www.youtube.com/watch?v=ZHn726VDoIY\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=9](https://www.youtube.com/watch?v=ZHn726VDoIY\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=9)
-  *
+  * 10 - link component navigation: [https://www.youtube.com/watch?v=sigcnKAPddM\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=10](https://www.youtube.com/watch?v=sigcnKAPddM\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=10)
+  * 11 - navigating programmatically: [https://www.youtube.com/watch?v=8jhLvnm7fmE\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=11](https://www.youtube.com/watch?v=8jhLvnm7fmE\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=11)
+  * 12 - custom 404 page: [https://www.youtube.com/watch?v=vpSDQawRpEk\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=12](https://www.youtube.com/watch?v=vpSDQawRpEk\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=12)
+  * 13 - routing summary: [https://www.youtube.com/watch?v=TaDGyvh2Ud0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=13](https://www.youtube.com/watch?v=TaDGyvh2Ud0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=13)
+  * 14- Pre-rendering and data fetching section intro: [https://www.youtube.com/watch?v=GOdu5C8JzL8\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=14](https://www.youtube.com/watch?v=GOdu5C8JzL8\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=14)
 
 
 
