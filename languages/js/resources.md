@@ -83,6 +83,10 @@
     * 25 - useState vs useReducer: [https://www.youtube.com/watch?v=3VClygDRSsU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=68](https://www.youtube.com/watch?v=3VClygDRSsU\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=68)
     * 26 - useCallback hook: [https://www.youtube.com/watch?v=IL82CzlaCys\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=69](https://www.youtube.com/watch?v=IL82CzlaCys\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=69)
     * 27 - useMemo hook: [https://www.youtube.com/watch?v=qySZIzZvZOY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=70](https://www.youtube.com/watch?v=qySZIzZvZOY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=70)
+    * 28 - useRef hook: [https://www.youtube.com/watch?v=yCS2m01bQ6w\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=71](https://www.youtube.com/watch?v=yCS2m01bQ6w\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=71)
+    * 29 - useRef hoop part 2: [https://www.youtube.com/watch?v=LWg0OyZQffc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=72](https://www.youtube.com/watch?v=LWg0OyZQffc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=72)
+    * 30 - custom hook: [https://www.youtube.com/watch?v=l-s9MgoMwTI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=73](https://www.youtube.com/watch?v=l-s9MgoMwTI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=73)
+    * 31 -&#x20;
 
 
 
