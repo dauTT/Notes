@@ -87,7 +87,9 @@
     * 29 - useRef hoop part 2: [https://www.youtube.com/watch?v=LWg0OyZQffc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=72](https://www.youtube.com/watch?v=LWg0OyZQffc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=72)
     * 30 - custom hook: [https://www.youtube.com/watch?v=l-s9MgoMwTI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=73](https://www.youtube.com/watch?v=l-s9MgoMwTI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=73)
     * 31 - useDocumentTile custom hook: [https://www.youtube.com/watch?v=4yp6T-hF5ZY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=74](https://www.youtube.com/watch?v=4yp6T-hF5ZY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=74)
-    * 32 -&#x20;
+    * 32 - useCounter custom hook: [https://www.youtube.com/watch?v=W3\_GIiN-nuc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=75](https://www.youtube.com/watch?v=W3\_GIiN-nuc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=75)
+    * 33 - useInput Custom Hook: [https://www.youtube.com/watch?v=6am-yn3ZLEw\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=76](https://www.youtube.com/watch?v=6am-yn3ZLEw\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=76)
+    * &#x20;
 
 
 
