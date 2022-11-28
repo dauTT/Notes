@@ -31,7 +31,7 @@
     * 20 - styling and CSS basics: [https://www.youtube.com/watch?v=j5P9FHiBVNo\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=20](https://www.youtube.com/watch?v=j5P9FHiBVNo\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=20)
     * 21 - basic of form handling: [https://www.youtube.com/watch?v=7Vo\_VCcWupQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=21](https://www.youtube.com/watch?v=7Vo\_VCcWupQ\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=21)
     * 22 - lifecycle methods: [https://www.youtube.com/watch?v=qnN\_FuFNq2g\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=22](https://www.youtube.com/watch?v=qnN\_FuFNq2g\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=22)
-      * ![](<../../.gitbook/assets/image (1).png>)
+      * ![](<../../.gitbook/assets/image (1) (2).png>)
     * 23 - mounting lifecycle method: [https://www.youtube.com/watch?v=KDXZibVdiEI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=23](https://www.youtube.com/watch?v=KDXZibVdiEI\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=23)
     * 24 - update lifecycle method: [https://www.youtube.com/watch?v=DyPkojd1fas\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=24](https://www.youtube.com/watch?v=DyPkojd1fas\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=24)
     * 25 - fragment: [https://www.youtube.com/watch?v=bHdh1T0-US4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=25](https://www.youtube.com/watch?v=bHdh1T0-US4\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=25)
@@ -89,7 +89,18 @@
     * 31 - useDocumentTile custom hook: [https://www.youtube.com/watch?v=4yp6T-hF5ZY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=74](https://www.youtube.com/watch?v=4yp6T-hF5ZY\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=74)
     * 32 - useCounter custom hook: [https://www.youtube.com/watch?v=W3\_GIiN-nuc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=75](https://www.youtube.com/watch?v=W3\_GIiN-nuc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=75)
     * 33 - useInput Custom Hook: [https://www.youtube.com/watch?v=6am-yn3ZLEw\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=76](https://www.youtube.com/watch?v=6am-yn3ZLEw\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=76)
-    * &#x20;
+
+    **React render:**&#x20;
+
+    * 1 - Introduction: [https://www.youtube.com/watch?v=YP2f-ErXG\_M\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=77](https://www.youtube.com/watch?v=YP2f-ErXG\_M\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=77)
+    * 2 - rendering: [https://www.youtube.com/watch?v=VPtL6dU0YXc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=78](https://www.youtube.com/watch?v=VPtL6dU0YXc\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=78)
+
+    &#x20;   ![](<../../.gitbook/assets/image (4).png>)
+
+    * 3 - useState: [https://www.youtube.com/watch?v=OQYsHvEq7nE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=79](https://www.youtube.com/watch?v=OQYsHvEq7nE\&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3\&index=79)
+    *
+
+
 
 
 
