@@ -123,6 +123,13 @@
   * 12 - custom 404 page: [https://www.youtube.com/watch?v=vpSDQawRpEk\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=12](https://www.youtube.com/watch?v=vpSDQawRpEk\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=12)
   * 13 - routing summary: [https://www.youtube.com/watch?v=TaDGyvh2Ud0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=13](https://www.youtube.com/watch?v=TaDGyvh2Ud0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=13)
   * 14- Pre-rendering and data fetching section intro: [https://www.youtube.com/watch?v=GOdu5C8JzL8\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=14](https://www.youtube.com/watch?v=GOdu5C8JzL8\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=14)
+  * 15- Pre-rendering: [https://www.youtube.com/watch?v=BeXbCgRxifs\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=15](https://www.youtube.com/watch?v=BeXbCgRxifs\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=15)
+  * 16 - Static generation: [https://www.youtube.com/watch?v=keP1PygtJ8c\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=16](https://www.youtube.com/watch?v=keP1PygtJ8c\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=16)
+  * 17 - Static generation with getStaticProps: [https://www.youtube.com/watch?v=7UouvxZ6OaM\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=17](https://www.youtube.com/watch?v=7UouvxZ6OaM\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=17)
+  * 18 - Pages vs Components: [https://www.youtube.com/watch?v=OYzrF4wuDKs\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=18](https://www.youtube.com/watch?v=OYzrF4wuDKs\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=18)
+  * 19 - More on GetStaticProps: [https://www.youtube.com/watch?v=yoEHWwEVvzY\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=19](https://www.youtube.com/watch?v=yoEHWwEVvzY\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=19)
+  * 20 - Inspecting static generation build: [https://www.youtube.com/watch?v=AWbYJgsXHQ4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=20](https://www.youtube.com/watch?v=AWbYJgsXHQ4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=20)
+  * 21 -&#x20;
 
 
 
