@@ -129,7 +129,8 @@
   * 18 - Pages vs Components: [https://www.youtube.com/watch?v=OYzrF4wuDKs\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=18](https://www.youtube.com/watch?v=OYzrF4wuDKs\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=18)
   * 19 - More on GetStaticProps: [https://www.youtube.com/watch?v=yoEHWwEVvzY\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=19](https://www.youtube.com/watch?v=yoEHWwEVvzY\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=19)
   * 20 - Inspecting static generation build: [https://www.youtube.com/watch?v=AWbYJgsXHQ4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=20](https://www.youtube.com/watch?v=AWbYJgsXHQ4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=20)
-  * 21 -&#x20;
+  * 21 - Running static generate build: [https://www.youtube.com/watch?v=QcUU89xKu70\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=21](https://www.youtube.com/watch?v=QcUU89xKu70\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=21)
+  * 22 -&#x20;
 
 
 
