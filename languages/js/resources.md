@@ -131,6 +131,9 @@
   * 20 - Inspecting static generation build: [https://www.youtube.com/watch?v=AWbYJgsXHQ4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=20](https://www.youtube.com/watch?v=AWbYJgsXHQ4\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=20)
   * 21 - Running static generate build: [https://www.youtube.com/watch?v=QcUU89xKu70\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=21](https://www.youtube.com/watch?v=QcUU89xKu70\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=21)
   * 22 - SSG with dynamic parameters: [https://www.youtube.com/watch?v=1XEe-ng57GA\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=22](https://www.youtube.com/watch?v=1XEe-ng57GA\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=22)
+  * 23 - SSG with getStaticPaths: [https://www.youtube.com/watch?v=TOIRxWQPgi0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=23](https://www.youtube.com/watch?v=TOIRxWQPgi0\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=23)
+  * 24 - Inspecting getStasticPaths build: [https://www.youtube.com/watch?v=Isrmm6XhAdA\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=24](https://www.youtube.com/watch?v=Isrmm6XhAdA\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=24)
+  * 25-&#x20;
 
 **Material ui**:
 
