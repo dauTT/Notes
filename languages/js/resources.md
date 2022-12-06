@@ -135,6 +135,11 @@
   * 24 - Inspecting getStasticPaths build: [https://www.youtube.com/watch?v=Isrmm6XhAdA\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=24](https://www.youtube.com/watch?v=Isrmm6XhAdA\&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH\&index=24)
   * 25-&#x20;
 
+**React query**
+
+* 3 - Fetching Data with useQuery: [https://www.youtube.com/watch?v=Ev60HKYFM0s\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=3](https://www.youtube.com/watch?v=Ev60HKYFM0s\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=3)
+* 4 -&#x20;
+
 **Material ui**:
 
 * **Codeevolution**: [https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO)
