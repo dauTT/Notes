@@ -142,7 +142,8 @@
 * 3 - Fetching Data with useQuery: [https://www.youtube.com/watch?v=Ev60HKYFM0s\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=3](https://www.youtube.com/watch?v=Ev60HKYFM0s\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=3)
 * 4 - Handling error: [https://www.youtube.com/watch?v=7WrxOLdBW4Y\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=4](https://www.youtube.com/watch?v=7WrxOLdBW4Y\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=4)
 * 5 - React query Devtools: [https://www.youtube.com/watch?v=PJSVowvL2MU\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=5](https://www.youtube.com/watch?v=PJSVowvL2MU\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=5)
-* 6 -&#x20;
+* 6 - Query cache: [https://www.youtube.com/watch?v=2TX8ojaSwF0\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=6](https://www.youtube.com/watch?v=2TX8ojaSwF0\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=6)
+* 7 -
 
 **Material ui**:
 
