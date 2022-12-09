@@ -143,7 +143,15 @@
 * 4 - Handling error: [https://www.youtube.com/watch?v=7WrxOLdBW4Y\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=4](https://www.youtube.com/watch?v=7WrxOLdBW4Y\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=4)
 * 5 - React query Devtools: [https://www.youtube.com/watch?v=PJSVowvL2MU\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=5](https://www.youtube.com/watch?v=PJSVowvL2MU\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=5)
 * 6 - Query cache: [https://www.youtube.com/watch?v=2TX8ojaSwF0\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=6](https://www.youtube.com/watch?v=2TX8ojaSwF0\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=6)
-* 7 -
+* 7 - Stale time: [https://www.youtube.com/watch?v=0BtcMLJ\_Zdc\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=7](https://www.youtube.com/watch?v=0BtcMLJ\_Zdc\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=7)
+* 8 - Refetch defaults: [https://www.youtube.com/watch?v=A3gN4ji5p6E\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=8](https://www.youtube.com/watch?v=A3gN4ji5p6E\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=8)
+  * refetchOnMount: true
+  * refetchOnWindowFocus: true
+* 9 - polling: [https://www.youtube.com/watch?v=PvcRaMqtEPQ\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=9](https://www.youtube.com/watch?v=PvcRaMqtEPQ\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=9)
+  * refetchInterval: false (2000)
+  * refetchIntervalInBackground: false
+* 10 - useQuery on click: [https://www.youtube.com/watch?v=oX3HTT5e9SQ\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=10](https://www.youtube.com/watch?v=oX3HTT5e9SQ\&list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2\&index=10)
+* 11 -&#x20;
 
 **Material ui**:
 
