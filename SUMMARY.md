@@ -69,7 +69,7 @@
   * [Twitter](applications/twitter.md)
   * [coingecko](applications/coingecko.md)
   * [vscode](applications/vscode.md)
-  * [Printer](applications/printer.md)
+  * [Printer](applications/page-1.md)
 * [Random](random/README.md)
   * [SGX](random/resources.md)
   * [CORS](random/cors.md)

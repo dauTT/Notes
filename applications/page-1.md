@@ -4,6 +4,7 @@
 
 Canon Driver:
 
+* [https://www.youtube.com/watch?v=0rauFYAWgPs](https://www.youtube.com/watch?v=0rauFYAWgPs)
 * [https://canon-print.com/canon-pixma-e470-series-drivers-windows-mac-linux/](https://canon-print.com/canon-pixma-e470-series-drivers-windows-mac-linux/)
 
 ```
@@ -13,7 +14,7 @@ tar -xvzf cnijfilter2-5.40-1-deb.tar.gz
 cd cnijfilter2-5.40-1-deb
 sudo  ./install.sh
 
-// install 
+// install (maybe this one is not necessary)
 
 tar -xvzf scangearmp2-3.40-1-deb.tar.gz
 cd scangearmp2-3.40-1-deb
