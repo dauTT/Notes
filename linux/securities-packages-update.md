@@ -1,6 +1,6 @@
 # Securities/packages update
 
-```text
+```
 # https://linuxhint.com/install-security-updates-ubuntu/
 # https://www.youtube.com/watch?v=a9s5NUIh42Q
 # https://askubuntu.com/questions/194651/why-use-apt-get-upgrade-instead-of-apt-get-dist-upgrade
@@ -21,4 +21,22 @@ sudo apt upgrade
 
 sudo reboot
 ```
+
+
+
+## Fix “Sub-process /usr/bin/dpkg returned an error code (1)” In Ubuntu
+
+[https://ostechnix.com/fix-sub-process-usr-bin-dpkg-returned-an-error-code-1-in-ubuntu/](https://ostechnix.com/fix-sub-process-usr-bin-dpkg-returned-an-error-code-1-in-ubuntu/)
+
+
+
+
+
+
+
+
+
+
+
+
 
